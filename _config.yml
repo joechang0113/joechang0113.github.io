@@ -1,0 +1,77 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.subtitle }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: JoeNotes
+subtitle: Joe Chang | Joe’s Blog
+description: Every noble work is at first impossible.
+baseurl:
+timezone: Asia/Taipei
+sidebar_repository_limit: 5
+paginate: 10
+publication_date: 2019
+
+# Uncomment the line below if you use this theme as a GitHub Page's remote theme.
+remote_theme: lynn9388/light-blog
+
+# Author settings
+author: Joe Chang
+organization: 
+location: Tainan, Taiwan
+social:
+  github: joechang0113  # need two space
+
+# Comments settings (https://utteranc.es/)
+# You must use your own repository, otherwise it won't work.
+comments_repository: joechang0113/blog-comments
+
+# Google Analytics settings (https://analytics.google.com/)
+ga_measurement_id: UA-151386182-1
+
+# Build settings (https://help.github.com/en/articles/configuring-jekyll)
+# If you use this theme as a Github Pages's remote theme, you don't need to edit the
+# content below, but still need to keep it in your blog's _config.yml.
+collections:
+  wiki:
+    output: true
+navigation:
+  - name: Home
+    link: /
+  - name: Archive
+    link: /archive/
+  - name: Feel free to talk here
+    link: /wiki/
+  - name: Sometimes you gotta run before you can walk
+    link: /about/
+defaults:
+  - scope:
+      path: pages
+    values:
+      layout: default
+  - scope:
+      path: _posts
+    values:
+      layout: post
+  - scope:
+      path: _wiki
+    values:
+      layout: post
+sass:
+  style: compressed
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+  - rouge
