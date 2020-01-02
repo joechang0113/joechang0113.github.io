@@ -4,6 +4,7 @@ tags: VSCode
 ---
 
 ## 前言
+
 有用過 HackMD 的玩家應該對於圖片可以自動上傳到 imgur 很心動，但是又比較習慣 VSCode 多套件支援的情況下，如果可以在 VSCode 使用 Imgur 的自動上傳功能，像下面的操作一般會省下很多附加圖片的時間
 
 ![img](https://i.imgur.com/jPm7V6t.gif)
@@ -50,7 +51,7 @@ ClientID 遺失可以到下圖的地方找，但是 Client secret 就必須要�
 
 打開後複製下面程式碼貼到 `setting.json`
 
-```bash
+``` bash
 "vscode-imgur.client_id":  # 剛剛 imgur 的 client_id"
 "vscode-imgur.client_secret":  # 剛剛 imgur 的 client_secret
 "vscode-imgur.preferUserUpload": true,
