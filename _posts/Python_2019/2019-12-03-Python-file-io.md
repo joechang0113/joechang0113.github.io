@@ -2,9 +2,6 @@
 title: 【Python 筆記】 Python 檔案寫入
 tags: Python
 ---
-
-## 前言
-
 打算依照時間戳歸納三層資料夾，儲存所需 csv 檔案，若欲存目錄不存在則依照路徑新建目錄，再儲存所需 csv 檔案，希望的存檔結構及結果如下圖。
 
 ![python-file-io](/images\posts\post_python-file-io.png)

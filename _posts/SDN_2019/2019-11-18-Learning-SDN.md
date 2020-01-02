@@ -2,14 +2,11 @@
 title: 【SDN 筆記】 SDN、OpenFlow、Ryu 之間的關係
 tags: [SDN]
 ---
+以下說明一下在軟體網路定義(SDN)中，SDN、OpenFlow、Ryu 扮演的腳色以及他們之間是如何運作，若有興趣繼續深入探討，非常推薦研讀一下 [官方說明文件]([https://link](https://osrg.github.io/ryu-book/zh_tw/html/switching_hub.html#ryu))
 
-## 前言
+## RYU
 
-首先，Ryu 作為開發的框架目的是為了實現軟體定義網路（ Software Defined Networking, SDN ）。那麼為什麼要選擇 Ryu 作為開發平台呢？透過 SDN 、OpenFlow、Ryu 之間的關係逐一探討。
-
-透過實際的例子，如 Simple Switch 的實作，接著是流量監控（ Traffic Monitor ）以及網路聚合（ Link Aggregation ），將一一介紹 Ryu 的程式是如何運作的。
-
-透過 OpenFlow 通訊協定（ OpenFlow Protocol ）以及封包函數的使用方法。接著也會討論如何使用 Ryu 內建的防火牆（ Firewall ）和測試工具（ test tool ）來開發應用程式。最後基於 Ryu 的架構（ Architecture ）及實際應用案例釐清三者間的關係。
+首先，Ryu 作為開發的框架目的是為了實現軟體定義網路（ Software Defined Networking, SDN ）。那麼為什麼要選擇 Ryu 作為開發平台呢？透過 SDN 、OpenFlow、Ryu 之間的關係逐一探討。透過實際的例子，如 Simple Switch 的實作，接著是流量監控（ Traffic Monitor ）以及網路聚合（ Link Aggregation ），將一一介紹 Ryu 的程式是如何運作的。透過 OpenFlow 通訊協定（ OpenFlow Protocol ）以及封包函數的使用方法。接著也會討論如何使用 Ryu 內建的防火牆（ Firewall ）和測試工具（ test tool ）來開發應用程式。最後基於 Ryu 的架構（ Architecture ）及實際應用案例釐清三者間的關係。
 
 ## SDN
 

@@ -2,9 +2,6 @@
 title: 【Ubuntu 筆記】使用 fcitx chewing 新酷音輸入法
 tags: Ubuntu
 ---
-
-## 前言
-
 Ubuntu 下 fcitx 輸入法架構比預設的 ibus 穩定許多，這邊分享如何安裝與設定
 
 ## 安裝 fcitx 語系
