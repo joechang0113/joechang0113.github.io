@@ -50,9 +50,9 @@ navigation:
     link: /
   - name: Archive
     link: /archive/
-  - name: Feel free to talk here
+  - name: Wiki
     link: /wiki/
-  - name: Sometimes you gotta run before you can walk
+  - name: About
     link: /about/
 defaults:
   - scope:

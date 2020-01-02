@@ -1,5 +1,5 @@
 ---
-title: About
+title: Sometimes you gotta run before you can walk
 permalink: /about/
 ---
 
