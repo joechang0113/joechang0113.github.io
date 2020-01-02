@@ -3,9 +3,9 @@ title: 【VSCode 筆記】 使用 MarkDown 套件
 tags: VSCode
 ---
 
-## 前言
+<!-- ## 前言 -->
 
-有用過 HackMD 的玩家應該對於圖片可以自動上傳到 imgur 很心動，但是又比較習慣 VSCode 多套件支援的情況下，如果可以在 VSCode 使用 Imgur 的自動上傳功能，像下面的操作一般會省下很多附加圖片的時間
+有用過 HackMD 的玩家應該對於圖片可以自動上傳到 imgur 很心動，但是又比較習慣 VSCode 多套件支援的情況下，如果可以在 VSCode 使用 Imgur 的自動上傳功能，像下面的操作一般會省下很多附加圖片的時間
 
 ![img](https://i.imgur.com/jPm7V6t.gif)
 
