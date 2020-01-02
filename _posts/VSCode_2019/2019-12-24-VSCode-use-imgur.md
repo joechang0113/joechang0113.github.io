@@ -15,7 +15,7 @@ tags: VSCode
 
 ![Image](https://i.imgur.com/MvCSia8.png)
 
-### 取得 API
+## 取得 API
 
 到 [這裡](https://api.imgur.com/oauth2/addclient) 申請 API，接著填寫一些必要訊息
 
