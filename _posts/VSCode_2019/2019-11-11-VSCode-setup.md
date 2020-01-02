@@ -38,8 +38,7 @@ Visual Studio Code 由 2015 年微軟所開發的一個開源軟體，它同時�
 
 ## setting.json 設置
 
->
-
+```json
 {
   "explorer.confirmDelete": false, // 刪除檔案不重複確認
   "editor.fontSize": 14, // 字體大小
@@ -54,6 +53,7 @@ Visual Studio Code 由 2015 年微軟所開發的一個開源軟體，它同時�
   "prettier.singleQuote": true, // 強制單引號
   "prettier.printWidth": 80, // 調整程式碼寬度上限
 }
+```
 
 ## Settings Sync 能做什麼
 

@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: JoeNotes
-subtitle: Joe Chang | Joe’s Blog
-description: Every noble work is at first impossible.
+description: Joe’s Blog
+subtitle: Every noble work is at first impossible
 baseurl:
 timezone: Asia/Taipei
 sidebar_repository_limit: 5
