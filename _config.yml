@@ -23,7 +23,7 @@ paginate: 10
 publication_date: 2019
 
 # Uncomment the line below if you use this theme as a GitHub Page's remote theme.
-remote_theme: lynn9388/light-blog
+remote_theme: joechang0113/light-blog
 
 # Author settings
 author: Joe Chang
