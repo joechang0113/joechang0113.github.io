@@ -84,7 +84,7 @@ bundle exec jekyll s
 
 ![img](https://i.imgur.com/YmvSq6A.png)
 
-這是因為模板預設系統時間為格林威治時區，我們到 Gemfile，加入這行指令
+這是因為模板預設系統時間的問題，我們到 `Gemfile`，加入這行指令
 
 ``` bash
 gem 'tzinfo-data', platforms: [:x64_mingw,:mingw, :mswin]
