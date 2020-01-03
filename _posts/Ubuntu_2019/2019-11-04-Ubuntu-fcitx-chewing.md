@@ -26,7 +26,7 @@ Gist-icon:
 
 > 右鍵另存圖檔
 
-![fcitx-chewing.png](/images\posts\fcitx-chewing.png)
+![fcitx-chewing.png](/assets\images\posts\fcitx-chewing.png)
 
 > 注意記住自己下載檔案的位置在哪裡，這邊我下載到 Download 資料夾內
 
