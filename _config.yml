@@ -1,3 +1,5 @@
+# fixed the problem "GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data."
+github: [metadata]
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
