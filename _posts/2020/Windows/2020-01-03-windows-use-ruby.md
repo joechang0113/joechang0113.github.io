@@ -1,5 +1,5 @@
 ---
-title: 【Windows 筆記】 Windows 下 Jekyll 環境安裝
+title: 【Windows 筆記】 Windows 下安裝 Jekyll
 tags: [Windows, Jekyll]
 ---
 目前使用的個人電腦是 windows (windows 版本 Win 10)，因此在 windows 上安裝 Jekyll 進行相關環境建置。在這邊紀錄一點心得和碰到的錯誤並分享解決的方法
@@ -96,7 +96,7 @@ gem 'tzinfo-data', platforms: [:x64_mingw,:mingw, :mswin]
 
 再次執行
 
-```bash
+``` bash
 budle exec jekyll s
 ```
 
