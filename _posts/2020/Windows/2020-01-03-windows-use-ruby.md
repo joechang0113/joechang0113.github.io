@@ -27,6 +27,8 @@ tags: [Windows, Jekyll]
 
 ## 安裝 Jekyll
 
+> 安裝Jekyll之前請先將VSCode等等的編譯器或是terminal重新開啟在執行以下動作
+
 輸入
 
 ``` bash
@@ -84,7 +86,7 @@ bundle exec jekyll s
 
 ![img](https://i.imgur.com/YmvSq6A.png)
 
-這是因為模板預設系統時間的問題，我們到 `Gemfile`，加入這行指令
+這是因為模板預設系統時間的問題，我們到 `Gemfile` ，加入這行指令
 
 ``` bash
 gem 'tzinfo-data', platforms: [:x64_mingw,:mingw, :mswin]
