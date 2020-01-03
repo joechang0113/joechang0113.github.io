@@ -2,9 +2,6 @@
 title: 【Ubuntu 筆記】 安裝 Oh-My-Zsh
 tags: [Ubuntu, Zsh]
 ---
-
-## 前言
-
 一直以來看到很多人推薦用 zsh (z shell)，有興趣了解原因，可以看看其他文章。今天將剛灌完的 ubuntu 系統把 shell 從 bash 轉移到 zsh，順便紀錄給有興趣裝 zsh 的人。
 
 ## 相關更新

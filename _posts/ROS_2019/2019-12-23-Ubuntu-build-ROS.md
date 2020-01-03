@@ -2,9 +2,6 @@
 title: 【ROS 筆記】 Ubuntu16.04 建立 ROS 環境
 tags: [ROS, Ubuntu]
 ---
-
-## 前言
-
 ROS 需要 python2.7 建立，使用 anaconda 會出現較多問題，會增加複雜度，建議基於系統 python2.7 環境建立並搭配 Virtualenv 使用即可
 
 ## Build ROS Kinetic and Setup
