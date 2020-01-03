@@ -4,7 +4,7 @@ tags: [Windows, Jekyll]
 ---
 目前使用的個人電腦是 windows (windows 版本 Win 10)，因此在 windows 上安裝 Jekyll 進行相關環境建置。在這邊紀錄一點心得和碰到的錯誤並分享解決的方法
 
-## 安裝 RUBY
+## 安裝 Ruby
 
 到 [下載地址](https://rubyinstaller.org/downloads/) 下載並安裝
 選擇第一個 with devkit 的 64 位元版本（除非你電腦 32 位元）
@@ -25,7 +25,7 @@ tags: [Windows, Jekyll]
 
 這邊直接按 enter 進入安裝，安裝完成後同樣的指令會再問你一次，直接按 Enter 自動跳離 terminal
 
-## 安裝 jekyll
+## 安裝 Jekyll
 
 輸入
 
