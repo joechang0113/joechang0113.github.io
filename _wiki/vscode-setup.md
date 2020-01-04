@@ -114,6 +114,6 @@ VSCode 安裝了 Settings Sync 這個套件後，只要記住兩個快速鍵
 
 這兩行的意思就是每次 VSCode 有更新的套件或是設定，settings sync 就會自動上傳，這邊要注意的是要同步更新的電腦也要加入這這兩行程式碼，當然如果你只想要以某 A 電腦的上傳為主，B 電腦就只要設定 `"sync.autoDownload": true` 即可。
 
-![setting auto DU](/images\posts\post_sync-setting-auto-U-D.png)
+![setting auto DU](/assets/images\posts\post_sync-setting-auto-U-D.png)
 
 > 這邊我使用 `false` 這是因為我想避免有些設定我只是暫時使用，並不需要同步到其他裝置。
