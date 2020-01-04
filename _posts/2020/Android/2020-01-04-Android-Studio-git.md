@@ -4,7 +4,7 @@ tags: [Android, GitHub]
 ---
 本篇紀錄一下，如何在 Android Studio 中使用 git 相關指令將程式碼上傳 GitHub 託管
 
-## android studio github 託管
+## GitHub 遠程庫創建
 
 新建 repo
 
@@ -13,6 +13,8 @@ tags: [Android, GitHub]
 取一個名字
 
 ![img](https://i.imgur.com/1nVAxLd.png)
+
+## Android Studio 設定
 
 到 android studio 專案中 打開 terminal，輸入
 
@@ -75,6 +77,6 @@ git push -u origin master
 
 ![img](https://i.imgur.com/wULXZew.png)
 
-`README.md` 編輯完之後，捲動到最下方，comment 的地方可自行填寫，這邊我不更改只使用預設，最後點擊下方點擊下方 commit new file
+`README.md` 編輯完之後，捲動到最下方，comment 的地方可自行填寫，這邊我不更改只使用預設，最後點擊下方 commit new file
 ![img](https://i.imgur.com/zHKca4O.png)
-點擊後回到我們的 android repo 如下畫面可以看到我們的首頁能呈現我們剛剛新增的 `README.md` 內容
+接著回到我們的 android repo 如下畫面可以看到我們的首頁能呈現我們剛剛新增的 `README.md` 內容
