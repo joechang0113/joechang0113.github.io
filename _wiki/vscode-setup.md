@@ -1,6 +1,5 @@
 ---
-title: 【VSCode 筆記】 建立 VSCode 環境
-tags: VSCode
+title: VSCode-Setup
 ---
 Visual Studio Code 由 2015 年微軟所開發的一個開源軟體，它同時支援 Windows、Linux 和 macOS 作業系統的開源文字編輯器。它支援偵錯，內建了 Git 版本控制功能，同時也具有開發環境功能，例如代碼補全、代碼片段、代碼重構等，心動的話趕快看下去。
 
@@ -69,11 +68,11 @@ Settings Sync 需要使用你的 GitHub 以及 Gist，所以還沒有 GitHub 帳
 
 在 Note 打上自己清楚的描述名稱，我稱為 VSCode_SyncSetting，如圖。
 
-![vscode_settingsync](/images\posts\post_syncsetting.png)
+![vscode_settingsync](/assets\images\posts\post_syncsetting.png)
 
 接著按下方的綠色 Generate token 按鈕建立，會跳出一串 token 不要急著關掉，這組要複製下來留好，離開畫面就找不到了
 
-![token](/images\posts\post_token.png)
+![token](/assets/images\posts\post_token.png)
 
 ### 首次上傳設定檔
 
@@ -86,17 +85,17 @@ VSCode 安裝了 Settings Sync 這個套件後，只要記住兩個快速鍵
 
 有了 Token 就可以來進行設定檔同步作業，先按下 Shift + Alt + U，第一次操作時 VSCode 會詢問你的 Github access token。
 
-![upload_token](/images\posts\post_upload_token.png)
+![upload_token](/assets/images\posts\post_upload_token.png)
 
 輸入剛剛複製的 access token 後就設定完成，Settings Sync 也會開始將設定檔上傳至 Gist，完成後會出現上傳完成通知。
 
-![gistID](/images\posts\post_gistID.png)
+![gistID](/assets/images\posts\post_gistID.png)
 
 這個 Gist ID 請把它記下來，後續要讓另一台電腦下載設定檔就需要這個 Gist ID。
 
 > 可以將 token 和 Gist ID 存放一起，Gist ID 弄丟沒關係，只要到你的 VSCode 的 `setting.json` ，就能看到剛剛 Settings Sync 所上傳過留下的 "sync.gist"，這個就是你的 Gist ID。
 
-![setting.json](/images\posts\post_setting-json-gistID.png)
+![setting.json](/assets/images\posts\post_setting-json-gistID.png)
 
 ### 下載設定檔
 
