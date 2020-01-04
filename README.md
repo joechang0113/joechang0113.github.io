@@ -48,7 +48,3 @@
 ## Wiki
 
 [維基](https://joechang0113.github.io/wiki/) 用來分享一些個人覺得好用的軟體、插件以及安裝方式
-
-## About
-
-[關於](https://joechang0113.github.io/about/) 一些聯絡方式和簡單的介紹
