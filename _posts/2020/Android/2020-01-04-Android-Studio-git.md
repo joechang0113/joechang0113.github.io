@@ -75,14 +75,6 @@ git push -u origin master
 
 ![img](https://i.imgur.com/wULXZew.png)
 
-pie-char 中比例新增前
-
-![img](https://i.imgur.com/rYNT0bu.png)
-
-pie-chart 中比例新增後
-
-![img](https://i.imgur.com/HmmSYDm.png)
-
-文中編輯完之後，捲動到最下方，comment 的地方可自行填寫，這邊我用預設，最後點擊下方點擊下方 commit new file
+`README.md` 編輯完之後，捲動到最下方，comment 的地方可自行填寫，這邊我不更改只使用預設，最後點擊下方點擊下方 commit new file
 ![img](https://i.imgur.com/zHKca4O.png)
 點擊後回到我們的 android repo 如下畫面可以看到我們的首頁能呈現我們剛剛新增的 `README.md` 內容
