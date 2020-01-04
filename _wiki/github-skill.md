@@ -1,5 +1,5 @@
 ---
-title: PNG、JPG、GIF TOOLS
+title: macOS-PNG、JPG、GIF TOOLS
 ---
 最近喜歡用 gif 檔案來呈現一些效果在 GitHub 的 README.md 頁面上面，發現 gif 檔案如果超過 5MB 會無法呈現（透過 imgur 轉換連結的方式，GitHub 文件不影響），有鑑於此找了一些解決的方案，雖然較麻煩，但是可以不用將 gif 檔案上傳在 GitHub 上面，以下為 macOS 適用軟體
 
