@@ -67,8 +67,7 @@ $DefaultUser = 'username' # your pc username，用來隱藏本機名
 
 跟 oh-my-zsh 一樣 oh-my-posh 也是利用依些特殊自行來美化這些 icon，所以我們要下載一些字體，這邊使用 Consolas NF，另外也有 [字體庫](https://github.com/powerline/fonts) 有興趣可以找找自己喜歡的
 
-
-這邊我們直接到[Consolas NF](https://github.com/whitecolor/my-nerd-fonts)點選 Download ZIP 下載 zip 檔案
+這邊我們直接到 [Consolas NF](https://github.com/whitecolor/my-nerd-fonts) 點選 Download ZIP 下載 zip 檔案
 
 ![Image](https://i.imgur.com/cs9by7e.png)
 
@@ -103,12 +102,12 @@ $DefaultUser = 'username' # your pc username，用來隱藏本機名
 ![Image](https://i.imgur.com/p3gcL69.png)
 
 順便將光標設定為下底線，才不會擋住自己打出來的命令，我們到 Settings 的 Terminal，將 Cursor style 選擇 Underline，再新啟動後就生效了！
+
 ## 關閉 powershell logo info
 
 會發現打開的時候會跳出加載的時間和一些系統提示，這會拖慢開啟速度，也不美觀，我們做一些設定將其關閉，打開 FluentTerminal，到 `Settings` 點選 `Profiles` ，選擇 Powershell 並開啟右上角了 `Edit` ，在 Arguments 輸入 `-nologo`
 
 ![Image](https://i.imgur.com/weURH1m.png)
 
-關閉 terminal 重新啟動，漂亮的 shell 搞定了!乾淨俐落!
-
+關閉 terminal 重新啟動，漂亮的 shell 搞定了！乾淨俐落！
 ![Image](https://i.imgur.com/7yiIiei.png)
