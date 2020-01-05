@@ -62,7 +62,7 @@ title: MarkDown-Socialpage
 [![alt text][5.1]][5] <!--(github) -->
 [![alt text][6.1]][6] <!--(medium) -->
 
-## 替換social media links
+## 替換 social media links
 
 來做點簡單的 🔗鏈結 替換
 
@@ -79,6 +79,7 @@ title: MarkDown-Socialpage
 
 替換後再試試看點擊這些 icon 就能成功連結到自己的 social media 囉！
 
+> 注意事項，這個方法用在某些 `.md` 檔案會出現只有跳轉到圖片網址的問題，實測 [README.md](https://github.com/joechang0113/socialpage) 可以完美運行，如果有朋友知道為什麼或是怎麼解決的也請多指教了！
 <!-- icons with padding -->
 
 [1.1]: https://i.imgur.com/GmxhYO0.png (instagram icon with padding)
