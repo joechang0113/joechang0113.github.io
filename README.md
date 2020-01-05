@@ -47,6 +47,6 @@
 
 [檔案](https://joechang0113.github.io/archive/) 根據不同類型的文章並依時間軸做整理，在這裡可以快速找到特定主題或同時間的文章
 
-## Wiki
+## TOOLS
 
-[維基](https://joechang0113.github.io/wiki/) 用來分享一些個人覺得好用的軟體、插件以及安裝方式
+[工具](https://joechang0113.github.io/wiki/) 用來分享一些個人覺得好用的軟體、插件以及安裝方式
