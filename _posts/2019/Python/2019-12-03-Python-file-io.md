@@ -4,7 +4,7 @@ tags: Python
 ---
 打算依照時間戳歸納三層資料夾，儲存所需 csv 檔案，若欲存目錄不存在則依照路徑新建目錄，再儲存所需 csv 檔案，希望的存檔結構及結果如下圖。
 
-![python-file-io](/images\posts\post_python-file-io.png)
+![python-file-io](/assets/images\posts\post_python-file-io.png)
 
 > 其中 csv 檔名 `20191203_11-12-36.csv` 所代表的是 2019/12/03, 11:12:36
 
@@ -86,4 +86,4 @@ else:
 
 最後如果存檔成功會看到
 
-![file-io-final](/images\posts\post_file-io-final.png)
+![file-io-final](/assets/images\posts\post_file-io-final.png)

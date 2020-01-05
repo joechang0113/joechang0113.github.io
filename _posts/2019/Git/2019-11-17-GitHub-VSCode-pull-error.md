@@ -10,7 +10,7 @@ tags: VSCode
 
 1. 利用 VSCode 中的內建 Git 功能 - 原始檔控制，執行 `取消所有暫存變更` ，若還是出現同樣狀況沒直接使用 `捨棄所有變更` 即可
 
-![cancel temp save](/images/posts/post_cancel-temp-save.png)
+![cancel temp save](/assets/images/posts/post_cancel-temp-save.png)
 
 2. 在命令列輸入以下指令，在接著做 pull 相關動作
 
