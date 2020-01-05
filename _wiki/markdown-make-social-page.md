@@ -10,9 +10,7 @@ title: MarkDown-Socialpage
 [![alt text][5.1]][5] <!--(github) -->
 [![alt text][6.1]][6] <!--(medium) -->
 
-大家可以動手點擊 icon 試試看，不小心可以追蹤一下沒關係
-
-言歸正傳，這樣的社群連結可以使用在 GitHub 上的 [README.md](https://github.com/joechang0113/joechang0113.github.io) 或是 blog 上的相關 social media links
+這樣的社群連結可以使用在 GitHub 上的 [README.md](https://github.com/joechang0113/joechang0113.github.io) 或是 blog 上的相關 social media links
 
 ![Image](https://i.imgur.com/eo5J4vP.png)
 
@@ -20,7 +18,7 @@ title: MarkDown-Socialpage
 
 在想要插入 link 的地方貼上以下程式碼
 
-``` md
+```
 <!-- Please don't remove this: Grab your social icons from https://github.com/joechang0113/socialpage -->
 
 <!-- display the social media buttons in your README -->
@@ -55,6 +53,7 @@ title: MarkDown-Socialpage
 [6]: https://medium.com/@joechang0113
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/joechang0113/socialpage -->
+
 ```
 
 不要懷疑，請全部貼上，雖然這個在你的 `.md` 上會佔據一定的版面，但是為了效果就讓步吧！
