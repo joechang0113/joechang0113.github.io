@@ -5,21 +5,25 @@ permalink: /about/
 
 我是Joe，歡迎來到我的Blog!
 
-[JoeNotes](https://joechang0113.github.io/) 中會記錄一些在學習中碰到的問題以及解決方式也會有一些個人喜歡使用的軟體插件，歡迎參考以及相互學習
+邊學習，邊紀錄，紀錄學習也學習如何清楚紀錄
+
+腦容量有限，記不住的就寫下來吧！
+
+在[JoeNotes](https://joechang0113.github.io/) 中記錄一些在學習中碰到的問題以及解決方式，好的工具能事半功倍，一些高人推薦或是個人喜歡使用的軟體插件在blog中也分享給大家，歡迎參考使用也相互推薦討論
 
 ## Home
 
-[首頁](https://joechang0113.github.io/) 碰到的技術問題、解決方式，會依照發布時間於首頁，可以到這裡看最新文章和技術交流討論
+[首頁](https://joechang0113.github.io/) 中紀錄了碰到的技術問題、解決方式，會依照發布時間於首頁，可以到這裡看最新文章和技術交流討論
 
 ## Archive
 
-[檔案](https://joechang0113.github.io/archive/) 根據不同類型的文章並依時間軸做整理，在這裡可以快速找到特定主題或同時間的文章
+[檔案](https://joechang0113.github.io/archive/) 會整理首頁的技術文章並根據不同類型的文章且依時間軸做分類，在這裡可以快速找到特定主題或同時間的文章
 
 ## Wiki
 
-[維基](https://joechang0113.github.io/wiki/) 用來分享一些個人覺得好用的軟體、插件以及安裝方式
+[維基](https://joechang0113.github.io/wiki/) 則用來分享一些高手推薦或是個人覺得好用的軟體、插件以及安裝方式，好用的工具日新月異，如果大家有更好更厲害的工具也請不吝指教！
 
----
+## Contact
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/joechang0113/socialpage -->
 
@@ -55,4 +59,3 @@ permalink: /about/
 [6]: https://medium.com/@joechang0113
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/joechang0113/socialpage -->
----
