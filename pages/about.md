@@ -3,6 +3,20 @@ title: Sometimes you gotta run before you can walk
 permalink: /about/
 ---
 
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1] <!--(instagram) -->
+[![alt text][2.1]][2] <!--(facebook) -->
+[![alt text][3.1]][3] <!--(twitter) -->
+[![alt text][4.1]][4] <!--(weibo) -->
+[![alt text][5.1]][5] <!--(github) -->
+[![alt text][6.1]][6] <!--(medium) -->
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+---
+
 我是Joe，歡迎來到我的Blog!
 
 邊學習，邊紀錄，紀錄學習也學習如何清楚紀錄
@@ -22,22 +36,6 @@ permalink: /about/
 ## Wiki
 
 [維基](https://joechang0113.github.io/wiki/) 則用來分享一些高手推薦或是個人覺得好用的軟體、插件以及安裝方式，好用的工具日新月異，如果大家有更好更厲害的工具也請不吝指教！
-
-## Contact
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/joechang0113/socialpage -->
-
-<!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][1] <!--(instagram) -->
-[![alt text][2.1]][2] <!--(facebook) -->
-[![alt text][3.1]][3] <!--(twitter) -->
-[![alt text][4.1]][4] <!--(weibo) -->
-[![alt text][5.1]][5] <!--(github) -->
-[![alt text][6.1]][6] <!--(medium) -->
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
 
 <!-- icons with padding -->
 
