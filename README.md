@@ -34,6 +34,7 @@
 <!-- Please don't remove this: Grab your social icons from https://github.com/joechang0113/socialpage -->
 
 ---
+
 # JoeNotes | Joe's Blog
 
 [JoeNotes](https://joechang0113.github.io/) 中會記錄一些在學習中碰到的問題以及解決方式也會有一些個人喜歡使用的軟體插件，歡迎參考以及相互學習
