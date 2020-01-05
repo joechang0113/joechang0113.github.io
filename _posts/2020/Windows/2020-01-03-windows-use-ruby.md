@@ -99,7 +99,7 @@ gem 'tzinfo-data', platforms: [:x64_mingw,:mingw, :mswin]
 再次執行
 
 ``` bash
-budle exec jekyll s
+bundle exec jekyll s
 ```
 
 可以運作了，但是可以看到圖中黃字訊息
