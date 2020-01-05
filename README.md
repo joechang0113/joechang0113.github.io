@@ -32,6 +32,7 @@
 [6]: https://medium.com/@joechang0113
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/joechang0113/socialpage -->
+
 ---
 # JoeNotes | Joe's Blog
 
