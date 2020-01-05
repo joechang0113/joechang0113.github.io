@@ -77,6 +77,8 @@ $DefaultUser = 'username' # your pc username，用來隱藏本機名
 
 接著到 `控制台、外觀及個人化、字型` 將這四個字形檔案丟進去
 
+![fonts move demo](https://i.imgur.com/jst4kgp.gif)
+
 ## 設定 FluentTerminal
 
 將剛剛下載的 Consolas NF 字形做配置
@@ -110,4 +112,5 @@ $DefaultUser = 'username' # your pc username，用來隱藏本機名
 ![Image](https://i.imgur.com/weURH1m.png)
 
 關閉 terminal 重新啟動，漂亮的 shell 搞定了！乾淨俐落！
+
 ![Image](https://i.imgur.com/7yiIiei.png)
