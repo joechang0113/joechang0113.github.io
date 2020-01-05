@@ -66,7 +66,11 @@ title: MarkDown-Socialpage
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
-但是點擊會發現現在的連結都是我，而不是您自己的，大家知道要做什麼了吧！來做點簡單的修改
+但是點擊會發現現在的連結都是我，而不是您自己的，大家知道要做什麼了吧！
+
+## 替換social media links
+
+來做點簡單的 🔗鏈結 替換
 
 ``` md
 [1]: https://www.instagram.com/yourname
