@@ -141,3 +141,15 @@ $DefaultUser = 'username' # your pc username，用來隱藏本機名
 關閉 terminal 重新啟動 FluentTerminal，漂亮的 shell 搞定了！
 
 ![Image](https://i.imgur.com/7yiIiei.png)
+
+## 整合 VSCode
+
+打開 `setting.json` 貼上以下程式碼
+
+``` json
+"terminal.integrated.fontFamily": "Consolas NF", // for windows oh-my-posh
+```
+
+接著再 VSCode 案 ctrl+p 打開命令列輸入 `>select Default shell` ，選擇 powershell
+
+![Image](https://i.imgur.com/l5mQVFs.png)
