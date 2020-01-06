@@ -5,7 +5,7 @@ macOS 和 Linux 在配置 shell 上都有很高的彈性也能打造出一個漂
 
 ![Image](https://i.imgur.com/4BXtycS.png)
 
-玩過 Cmder、Git bash、PowerShell 原生地 cmd 就不說了，無法滿足，於是找到了 [FluentTerminal](https://github.com/felixse/FluentTerminal)，這篇帶大家簡單安裝！
+玩過 Cmder、Git bash、PowerShell 原生 cmd 就不說了，無法滿足，於是找到了 [FluentTerminal](https://github.com/felixse/FluentTerminal)，這篇帶大家簡單安裝！
 我們會完成的最終效果如下
 
 ![Image](https://i.imgur.com/4xq94rP.png)
@@ -14,15 +14,17 @@ macOS 和 Linux 在配置 shell 上都有很高的彈性也能打造出一個漂
 
 ### Chocolatey 套件安裝
 
-首先，在 windows 搜尋 powershell 並以系統管理員打開，接著輸入指令安裝 [Chocolatey](https://chocolatey.org/install)
+首先，在 windows 搜尋 powershell 並以系統管理員打開
 
 ![powerline](https://i.imgur.com/dXHF1ho.png)
+
+接著輸入指令安裝 [Chocolatey](https://chocolatey.org/install)
 
 ``` bash
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1')); choco feature enable -n allowGlobalConfirmation
 ```
 
-接著驗證版本已確認是否安裝完成
+驗證版本已確認是否安裝完成
 
 ``` bash
 choco -v
