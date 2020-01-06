@@ -77,3 +77,6 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - rouge
+
+  sitemap:
+  path: sitemap.xml
