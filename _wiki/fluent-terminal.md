@@ -147,7 +147,7 @@ $DefaultUser = 'username' # your pc username，用來隱藏本機名
 打開 `setting.json` 貼上以下程式碼
 
 ``` json
-"terminal.integrated.fontFamily": "Consolas NF", // for windows oh-my-posh
+"terminal.integrated.fontFamily": "Consolas NF",
 ```
 
 接著再 VSCode 案 ctrl+p 打開命令列輸入 `>select Default shell` ，選擇 powershell
