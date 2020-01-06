@@ -1,6 +1,6 @@
 ---
-title: 【Git 筆記】如何使用 ssh 路徑
-tags: Git
+title: 【GitHub 筆記】如何使用 ssh 路徑
+tags: GitHub
 ---
 在管理Git專案上，很多時候都是直接使用https url克隆到本地，當然也有有些人使用SSH url克隆到本地。以下簡單介紹這兩種方式的主要區別
 

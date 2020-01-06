@@ -1,6 +1,6 @@
 ---
 title: 【Windows 筆記】 Windows 下打造 TensorFlow 環境
-tags: [Windows, TensorFlow]
+tags: [Windows]
 ---
 工欲善其事，必先利其器，機器要學習，定需好環境。之前介紹在 Ubuntu 系統安裝，這次在 Windows 也快速利用 Anaconda 建立 Tensorflow 環境
 

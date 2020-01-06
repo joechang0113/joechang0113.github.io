@@ -1,6 +1,6 @@
 ---
-title: 【Git 筆記】git 指令回復舊版本並更新遠端
-tags: Git
+title: 【GitHub 筆記】git 指令回復舊版本並更新遠端
+tags: GitHub
 ---
 假設發現最新的 code 版本有 bugs，想回復更新前的版本，你可以查看、複製並強制還原
 

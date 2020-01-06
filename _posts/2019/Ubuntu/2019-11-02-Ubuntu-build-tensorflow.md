@@ -1,6 +1,6 @@
 ---
 title: 【Ubuntu 筆記】 Ubuntu 下打造 Tensorflow 環境
-tags: [Ubuntu, TensorFlow]
+tags: [Ubuntu]
 ---
 工欲善其事，必先利其器，機器要學習，定需好環境。本文介紹如何使用 Anaconda 建立 Tensorflow 環境
 
@@ -123,4 +123,3 @@ pip install keyboard
 
 執行時碰到的一些錯誤，紀錄一下，有碰到夥伴可以試試看，解決方案如下：
 在安裝 opencv 時，原先使用 `conda install opencv` 安裝，發生錯誤，移除後，改用 `pip install opencv-python` 可以解決
-

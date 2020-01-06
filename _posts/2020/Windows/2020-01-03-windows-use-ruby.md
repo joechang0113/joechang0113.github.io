@@ -1,6 +1,6 @@
 ---
 title: 【Windows 筆記】 Windows 下運行 Jekyll 本地預覽
-tags: [Windows, Jekyll]
+tags: [Windows, Jekell]
 ---
 blog 使用 Jekyll 建立，所以在 windows 上進行相關環境建置。紀錄一點心得和碰到的錯誤並分享解決的方法，使用 macOS 的朋友可以參考 [這裡](https://joechang0113.github.io/2020/01/03/macos-use-ruby.html)
 
