@@ -25,15 +25,15 @@ permalink: /about/
 
 在[JoeNotes](https://joechang0113.github.io/) 中記錄一些在學習中碰到的問題以及解決方式，好的工具能事半功倍，一些高人推薦或是個人喜歡使用的軟體插件在blog中也分享給大家，歡迎參考使用也相互推薦討論
 
-## Home
+### Home
 
 [首頁](https://joechang0113.github.io/) 中紀錄了碰到的技術問題、解決方式，會依照發布時間於首頁，可以到這裡看最新文章和技術交流討論
 
-## Archive
+### Archive
 
 [檔案](https://joechang0113.github.io/archive/) 會整理首頁的技術文章並根據不同類型的文章且依時間軸做分類，在這裡可以快速找到特定主題或同時間的文章
 
-## TOOLS
+### TOOLS
 
 [工具](https://joechang0113.github.io/wiki/) 則用來分享一些高手推薦或是個人覺得好用的軟體、插件以及安裝方式，好用的工具日新月異，如果大家有更好更厲害的工具也請不吝指教！
 
