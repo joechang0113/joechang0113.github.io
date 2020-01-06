@@ -102,7 +102,7 @@ $DefaultUser = 'username' # your pc username，用來隱藏本機名
 
 ![Image](https://i.imgur.com/0vjqP6r.png)
 
-接著到 `控制台、外觀及個人化、字型` 將這四個字形檔案丟進去
+接著到 `控制台-外觀及個人化、字型` 將這四個字形檔案丟進去
 
 ![fonts move demo](https://i.imgur.com/jst4kgp.gif)
 
@@ -112,7 +112,7 @@ $DefaultUser = 'username' # your pc username，用來隱藏本機名
 
 ![Image](https://i.imgur.com/UhRvHgx.png)
 
-解壓縮後，會看到 `iTerm-argonaut-master` 資料夾
+解壓縮後，會看到 `iTerm-argonaut-master` 資料夾，先將它留在桌面等等用上
 
 ### 設定 FluentTerminal
 
@@ -126,9 +126,9 @@ $DefaultUser = 'username' # your pc username，用來隱藏本機名
 
 ![Image](https://i.imgur.com/fdBHcDs.png)
 
-然後記得勾選 argonaut 主題
+然後記得勾選 argonaut 主題並按 SetActive
 
-![Image](https://i.imgur.com/p3gcL69.png)
+![Image](https://i.imgur.com/Ka6k8fi.png)
 
 順便將光標設定為下底線，才不會擋住自己打出來的命令，我們到 Settings 的 Terminal，將 Cursor style 選擇 Underline
 
