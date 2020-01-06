@@ -1,8 +1,8 @@
 ---
-title: 【macOS 筆記】macOS 下安裝 Jekyll
+title: 【macOS 筆記】macOS 下運行 Jekyll 本地預覽
 tags: [macOS, Jekyll]
 ---
-目前使用的個人電腦是 macOS (macOS Catalina 版本 10.15.2)，因此在 macOS 上安裝 Jekyll 進行相關環境建置。在這邊紀錄一點心得和碰到的錯誤並分享解決的方法
+先前介紹過 [windows 設定](https://joechang0113.github.io/2020/01/03/windows-use-ruby.html)，在 macOS 上進行相關環境建置有些許不同，做個紀錄紀錄
 
 ## 安裝 Ruby
 

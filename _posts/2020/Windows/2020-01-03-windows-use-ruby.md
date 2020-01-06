@@ -1,8 +1,8 @@
 ---
-title: 【Windows 筆記】 Windows 下安裝 Jekyll
+title: 【Windows 筆記】 Windows 下運行 Jekyll 本地預覽
 tags: [Windows, Jekyll]
 ---
-目前使用的個人電腦是 windows (windows 版本 Win 10)，因此在 windows 上安裝 Jekyll 進行相關環境建置。在這邊紀錄一點心得和碰到的錯誤並分享解決的方法
+blog 使用 Jekyll 建立，所以在 windows 上進行相關環境建置。紀錄一點心得和碰到的錯誤並分享解決的方法，使用 macOS 的朋友可以參考 [這裡](https://joechang0113.github.io/2020/01/03/macos-use-ruby.html)
 
 ## 安裝 Ruby
 
@@ -27,7 +27,7 @@ tags: [Windows, Jekyll]
 
 ## 安裝 Jekyll
 
-> 安裝Jekyll之前請先將VSCode等等的編譯器或是terminal重新開啟在執行以下動作
+> 安裝 Jekyll 之前請先將 VSCode 等等的編譯器或是 terminal 重新開啟在執行以下動作
 
 輸入
 
