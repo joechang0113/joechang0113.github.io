@@ -1,5 +1,5 @@
 ---
-title: 【ROS 筆記】 LiDAR 系統建立
+title: 【ROS 筆記】 Tracking by LiDAR & Inertial Sensor
 tags: [ROS]
 ---
 建立好ROS環境後，接著我們要假設LiDAR相關環境，還沒搭建好ROS環境可以參考 [這篇](https://joechang0113.github.io//2019/12/23/Ubuntu-build-ROS/)
