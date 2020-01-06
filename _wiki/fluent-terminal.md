@@ -80,7 +80,7 @@ Import-Module oh-my-posh
 Set-Theme Paradox # 要用的 Theme
 $DefaultUser = 'username' # your pc username，用來隱藏本機名
 ```
-不知道 username 的朋友請按 `Win=R`，輸入`netplwiz`即可查看自己的 username
+不知道 username 的朋友請按 `Win+R`，輸入`netplwiz`即可查看自己的 username
 
 ![Image](https://i.imgur.com/AVaHPuv.png)
 
