@@ -1,12 +1,7 @@
 ---
 title: Windows-FluentTerminal
 ---
-macOS 和 Linux 在配置 shell 上都有很高的彈性也能打造出一個漂亮的效果，像是 macOS 的 iTerm2 & Oh-My-Zsh 搭配出來的效果，像是這樣
-
-![Image](https://i.imgur.com/4BXtycS.png)
-
-玩過 Cmder、Git bash、PowerShell 原生 cmd 就不說了，無法滿足，於是找到了 [FluentTerminal](https://github.com/felixse/FluentTerminal)，這篇帶大家簡單安裝！
-我們會完成的最終效果如下
+Windows 用的 shell 很多種，有 cmd、Cmder、Git bash、PowerShell 等等，這篇介紹 [FluentTerminal](https://github.com/felixse/FluentTerminal)，是一個可以高度客製化的 shell，最終效果如下
 
 ![Image](https://i.imgur.com/4xq94rP.png)
 
@@ -42,9 +37,9 @@ choco install fluent-terminal
 
 ![img](https://i.imgur.com/56IiBxb.png)
 
-輸入以下指令，並輸入`A`執行
+輸入以下指令，並輸入 `A` 執行
 
-```bash
+``` bash
 set-ExecutionPolicy RemoteSigned
 ```
 
@@ -68,7 +63,7 @@ Install-Module oh-my-posh -Scope CurrentUser
 if (!(Test-Path -Path $PROFILE)) {New-Item -Type File -Path $PROFILE -Force}
 ```
 
-```bash
+``` bash
 code $PROFILE # 如果不是用 VSCode 請用自己的編輯器開（如 notepad)
 ```
 
@@ -80,7 +75,8 @@ Import-Module oh-my-posh
 Set-Theme Paradox # 要用的 Theme
 $DefaultUser = 'username' # your pc username，用來隱藏本機名
 ```
-不知道 username 的朋友請按 `Win+R`，輸入`netplwiz`即可查看自己的 username
+
+不知道 username 的朋友請按 `Win+R` ，輸入 `netplwiz` 即可查看自己的 username
 
 ![Image](https://i.imgur.com/AVaHPuv.png)
 
@@ -114,7 +110,7 @@ $DefaultUser = 'username' # your pc username，用來隱藏本機名
 
 解壓縮後，會看到 `iTerm-argonaut-master` 資料夾，先將它留在桌面等等用上
 
-### 設定 FluentTerminal
+### FluentTerminal 優化
 
 將剛剛下載的 Consolas NF 字形和 Argonaut 主題做配置
 
