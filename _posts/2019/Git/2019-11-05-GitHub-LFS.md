@@ -1,5 +1,5 @@
 ---
-title: 【GitHub 筆記】GitHub 上傳大型檔案
+title: 【GitHub 筆記】使用 Git LFS 上傳大型檔案
 tags: GitHub
 ---
 專案開發過程中，檔案越來越大在所難免，GitHub 限制單一檔案 100 MB 的限制，這時候就需要交由 **LFS** 這個功能，來解決類似以下的錯誤訊息。
