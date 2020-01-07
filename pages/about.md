@@ -3,27 +3,15 @@ title: Sometimes you gotta run before you can walk
 permalink: /about/
 ---
 
-<!-- display the social media buttons in your README -->
+### About me
 
-[![alt text][1.1]][1] <!--(instagram) -->
-[![alt text][2.1]][2] <!--(facebook) -->
-[![alt text][3.1]][3] <!--(twitter) -->
-[![alt text][4.1]][4] <!--(weibo) -->
-[![alt text][5.1]][5] <!--(github) -->
-[![alt text][6.1]][6] <!--(medium) -->
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
----
-
-我是Joe，歡迎來到我的Blog!
+我是 Joe，歡迎來到我的 Blog!
 
 邊學習，邊紀錄，紀錄學習也學習如何清楚紀錄
 
 腦容量有限，記不住的就寫下來吧！
 
-在[JoeNotes](https://joechang0113.github.io/) 中記錄一些在學習中碰到的問題以及解決方式，好的工具能事半功倍，一些高人推薦或是個人喜歡使用的軟體插件在blog中也分享給大家，歡迎參考使用也相互推薦討論
+在 [JoeNotes](https://joechang0113.github.io/) 中記錄一些在學習中碰到的問題以及解決方式，好的工具能事半功倍，一些高人推薦或是個人喜歡使用的軟體插件在 blog 中也分享給大家，歡迎參考使用也相互推薦討論
 
 ### Home
 
@@ -36,6 +24,26 @@ permalink: /about/
 ### TOOLS
 
 [工具](https://joechang0113.github.io/wiki/) 則用來分享一些高手推薦或是個人覺得好用的軟體、插件以及安裝方式，好用的工具日新月異，如果大家有更好更厲害的工具也請不吝指教！
+
+### Contact
+
+* GitHub: [@joechang0113](https://github.com/joechang0113)
+* iT 邦：[@Joe](https://ithelp.ithome.com.tw/users/20122594)
+* Medium: [@joechang0113](https://medium.com/@joechang0113)
+
+---
+
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1] <!--(instagram) -->
+[![alt text][2.1]][2] <!--(facebook) -->
+[![alt text][3.1]][3] <!--(twitter) -->
+[![alt text][4.1]][4] <!--(weibo) -->
+[![alt text][5.1]][5] <!--(github) -->
+[![alt text][6.1]][6] <!--(medium) -->
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
 
 <!-- icons with padding -->
 
