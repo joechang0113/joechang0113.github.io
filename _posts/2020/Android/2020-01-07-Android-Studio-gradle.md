@@ -10,7 +10,7 @@ Gradle DSL method not found: 'google()'
 
 ## 解決方法
 
-將 gradle 版本由 3.3 更新為 4.6，如下圖，到** Gradle Script **下的** gradle-wrapper.properties **將舊版本的 `distributionUrl` 替換為新版本連結，如下
+將 gradle 版本由 3.3 更新為 4.6，如下圖，到 **Gradle Script** 下的 **gradle-wrapper.properties** 將舊版本的 `distributionUrl` 替換為新版本連結，如下
 
 ~~distributionUrl=https\://services.gradle.org/distributions/gradle-3.3-all.zip~~
 
@@ -52,7 +52,7 @@ Configuration 'compile' is obsolete and has been replaced with 'implementation' 
 
 這個指令的特點就是，對於使用了該命令編譯的依賴，對該項目有依賴的項目將無法訪問到使用該命令編譯的依賴中的任何程序，也就是將該依賴隱藏在內部，而不對外部公開。
 
-所以我們到所有** build.gradle **相關文件，將 `compile` 替換成 `implementation` ，如下圖
+所以我們到所有 **build.gradle** 相關文件，將 `compile` 替換成 `implementation` ，如下圖
 ![compile](https://i.imgur.com/OS9ywrf.png)
 
 改為
