@@ -2,8 +2,7 @@
 title: 【Android 筆記】 Gradle 版本更新問題
 tags: [Android]
 ---
-最近修改 Android Sensor Driver 碰到了 Gradle 相關問題，錯誤訊息
-如下
+最近修改 Android Sensor Driver 碰到了 Gradle 相關問題，錯誤訊息如下
 
 ```
 Gradle DSL method not found: 'google()'

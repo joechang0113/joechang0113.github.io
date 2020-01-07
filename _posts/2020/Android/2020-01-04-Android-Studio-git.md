@@ -1,6 +1,6 @@
 ---
 title: 【Android 筆記】 將專案託管於 GitHub
-tags: [Android]
+tags: [Android ,GitHub]
 ---
 本篇紀錄一下，如何在 Android Studio 中使用 git 相關指令將程式碼上傳 GitHub 託管
 
