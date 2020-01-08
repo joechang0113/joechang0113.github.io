@@ -2,7 +2,7 @@
 title: Sometimes you gotta run before you can walk
 permalink: /about/
 ---
-歡迎來到 9notes. 這裡是我學習歷程的紀錄，希望碰到類似問題的你能得到一點幫助
+歡迎來到 9notes. 這裡是我學習歷程的紀錄，希望我的分享能有所幫助
 
 ### About me
 
