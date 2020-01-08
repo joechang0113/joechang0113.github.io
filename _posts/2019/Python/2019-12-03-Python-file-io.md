@@ -1,5 +1,5 @@
 ---
-title: 【Python 筆記】 Python 檔案寫入
+title: 【Python 筆記】 Python 檔案讀寫
 tags:
 
     - Python

@@ -1,5 +1,9 @@
 ---
 title: VSCode-Setup
+tags:
+
+    - Tools
+
 ---
 Visual Studio Code 由 2015 年微軟所開發的一個開源軟體，它同時支援 Windows、Linux 和 macOS 作業系統的開源文字編輯器。它支援偵錯，內建了 Git 版本控制功能，同時也具有開發環境功能，例如代碼補全、代碼片段、代碼重構等，心動的話趕快看下去。
 
@@ -34,7 +38,7 @@ Visual Studio Code 由 2015 年微軟所開發的一個開源軟體，它同時�
 
 ## setting.json 設置
 
-```json
+``` json
 {
   "explorer.confirmDelete": false, // 刪除檔案不重複確認
   "editor.fontSize": 14, // 字體大小
