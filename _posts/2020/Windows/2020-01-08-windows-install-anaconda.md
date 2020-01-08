@@ -47,7 +47,7 @@ title: 【Windows 筆記】 Windows10 安裝 Anaconda 環境
 
 ![Image](https://i.imgur.com/Udn6ZVY.png)
 
-有的話，就沒有問題可以開始使用相關工具囉！在 Anaconda 中 `conda` 就如同 `pip` 的存在，所以如果有出現錯誤不妨看看 [上面步驟](#%e4%bd%bf%e7%94%a8-conda-%e6%8c%87%e4%bb%a4) 有沒有步驟漏掉！
+有的話，就沒有問題可以開始使用相關工具囉！在 Anaconda 中 `conda` 就如同 `pip` 的存在，所以如果有出現錯誤不妨看看 [上面步驟](#%e5%ae%89%e8%a3%9d-anaconda) 有沒有步驟漏掉！
 
 ## Anaconda 建立虛擬環境
 
