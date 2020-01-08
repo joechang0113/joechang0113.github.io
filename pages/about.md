@@ -2,7 +2,7 @@
 title: Sometimes you gotta run before you can walk
 permalink: /about/
 ---
-Here is 9notes | JoeNotes
+歡迎到 9notes 或稱 JoeNotes. 在這邊分享學習歷程
 
 ### About me
 
