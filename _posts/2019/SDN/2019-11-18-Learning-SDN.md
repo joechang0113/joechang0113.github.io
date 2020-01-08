@@ -2,7 +2,7 @@
 title: 【SDN 筆記】 SDN、OpenFlow、Ryu 之間的關係
 tags: [SDN]
 ---
-這篇介紹一下在軟體網路定義(SDN)中，SDN、OpenFlow 和 Ryu 所擔任的角色以及三者之間是如何運作，若有興趣深入探討，非常推薦研讀一下 [官方說明文件]([https://link](https://osrg.github.io/ryu-book/zh_tw/html/switching_hub.html#ryu))
+這篇介紹一下在軟體網路定義 (SDN) 中，SDN、OpenFlow 和 Ryu 所擔任的角色以及三者之間是如何運作，若有興趣深入探討，非常推薦研讀一下 [官方說明文件]([https://link](https://osrg.github.io/ryu-book/zh_tw/html/switching_hub.html#ryu))
 
 ## RYU
 
@@ -67,7 +67,7 @@ OpenFlow 交換器會接受來自于 Controller 的指令並達到以下功能
 
 我們以程式碼區塊逐一做簡單介紹，詳細步驟和程式碼解析，可參考 [官方文件](https://osrg.github.io/ryu-book/zh_tw/html/switching_hub.html#ryu)
 
-* 程式碼區塊一解析：
+* 程式碼區塊 `switch_features_handler` 解析：
 
 ``` python
 def switch_features_handler(self, ev):
@@ -79,7 +79,7 @@ def switch_features_handler(self, ev):
 
 Table-miss Flow Entry 的優先權為 0 即最低的優先權，而且此 Entry 可以 match 所有的封包。 這個 Entry 的 Instruction 通常指定為 output action ，並且輸出的連接埠將指向 Controller。
 
-* 程式碼區塊二解析：
+* 程式碼區塊 `_packet_in_handler` 解析：
 
 ``` python
 def _packet_in_handler(self, ev):
