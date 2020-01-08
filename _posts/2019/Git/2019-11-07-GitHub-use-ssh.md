@@ -1,6 +1,9 @@
 ---
 title: 【GitHub 筆記】如何使用 ssh 路徑
-tags: GitHub
+tags:
+
+    - GitHub
+
 ---
 在管理 Git 專案上，很多時候都是直接使用 https url 克隆到本地，當然也有有些人使用 SSH url 克隆到本地。以下簡單介紹這兩種方式的主要區別
 
@@ -41,14 +44,14 @@ cd .ssh           # 讀取檔案內容
 code id_rsa.pub  # 用自己的編譯器即可
 ```
 
-![](https://i.imgur.com/xpTpufW.png)
+![code id_rsa.pub](https://i.imgur.com/xpTpufW.png)
 
 * Windows
 
 打開 terminal，將路徑切換到 `.ssh` 路徑下，找到 `id_rsa.pub` 檔案
 
 ``` bash
-cd .\.ssh\  # 路徑切換到ssh目錄下
+cd .\.ssh\  # 路徑切換到 ssh 目錄下
 ```
 
 ``` bash
@@ -58,19 +61,20 @@ code .\id_rsa.pub  # 用自己的編譯器打開 `.ssh` 檔案並複製
 ![Image](https://i.imgur.com/2eqNJFE.png)
 
 * macOS
-  打開terminal，輸入
 
-```bash
-cd .ssh  #  擅用tab補全不完整指令
+  打開 terminal，輸入
+
+``` bash
+cd .ssh  #  擅用 tab 補全不完整指令
 ```
 
-```bash
+``` bash
 code id_rsa.pub #  打開檔案
 ```
 
 ![Image](https://i.imgur.com/xCO2ir1.png)
 
-複製完 `id_rsa.pub` 內的 `ssh` 後，開啟自己的 GitHub 網頁，點擊頭貼的 `setting` ，頁面右側的 SSH and GPG keys 打開，按下 New SSH key，將複製的內容貼到下欄 key 的位置，Title 可自行填寫方便辨認的名稱，不清楚的話可以參考下圖喔!
+複製完 `id_rsa.pub` 內的 `ssh` 後，開啟自己的 GitHub 網頁，點擊頭貼的 `setting` ，頁面右側的 SSH and GPG keys 打開，按下 New SSH key，將複製的內容貼到下欄 key 的位置，Title 可自行填寫方便辨認的名稱，不清楚的話可以參考下圖喔！
 
 ![Image](https://i.imgur.com/EeVTRPH.png)
 

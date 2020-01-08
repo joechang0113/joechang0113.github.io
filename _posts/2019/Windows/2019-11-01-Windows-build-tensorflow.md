@@ -1,6 +1,11 @@
 ---
 title: 【Windows 筆記】 用Anaconda 簡單建立 TensorFlow 環境
-tags: [Windows]
+tags:
+
+    - Windows
+    - Anaconda
+    - Tensorflow
+
 ---
 工欲善其事，必先利其器，機器要學習，定需好環境。之前介紹在 Ubuntu 系統安裝，這次在 Windows 也快速利用 Anaconda 建立 Tensorflow 環境
 
@@ -30,7 +35,7 @@ tags: [Windows]
 
 ![Imgur](https://i.imgur.com/BvQqV7M.png)
 
-輸入指令`activate tensorflow`激活 tensorflow 環境。
+輸入指令 `activate tensorflow` 激活 tensorflow 環境。
 
 > 如下圖使用者名稱前方顯示 tensorflow 表示激活成功
 

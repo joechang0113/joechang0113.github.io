@@ -1,6 +1,7 @@
 ---
 title: 【SDN 筆記】 SDN、OpenFlow、Ryu 之間的關係
-tags: [SDN]
+tags:
+    - SDN
 ---
 這篇介紹一下在軟體網路定義 (SDN) 中，SDN、OpenFlow 和 Ryu 所擔任的角色以及三者之間是如何運作，若有興趣深入探討，非常推薦研讀一下 [官方說明文件]([https://link](https://osrg.github.io/ryu-book/zh_tw/html/switching_hub.html#ryu))
 

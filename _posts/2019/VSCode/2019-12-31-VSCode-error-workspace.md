@@ -1,6 +1,9 @@
 ---
 title: 【VSCode 筆記】 大型工作區問題
-tags: VSCode
+tags:
+
+    - VSCode
+
 ---
 Visual Studio Code 無法監視這個大型工作區的變化 Visual Studio Code is unable to watch for file changes in this large workspace(error ENOSPC)
 

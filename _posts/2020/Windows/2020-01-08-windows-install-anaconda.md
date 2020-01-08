@@ -1,5 +1,10 @@
 ---
 title: 【Windows 筆記】 Windows10 安裝 Anaconda 環境
+tags:
+
+    - Windows
+    - Anaconda
+
 ---
 本篇介紹在 Windows 10 下安裝 Anaconda 環境
 

@@ -1,6 +1,10 @@
 ---
 title: 【macOS 筆記】Jekyll 本地預覽
-tags: [macOS, Jekyll]
+tags:
+
+    - macOS
+    - Jekyll
+
 ---
 先前介紹過 [windows 設定](https://joechang0113.github.io/2020/01/03/windows-use-ruby.html)，在 macOS 上進行相關環境建置有些許不同，做個紀錄
 
