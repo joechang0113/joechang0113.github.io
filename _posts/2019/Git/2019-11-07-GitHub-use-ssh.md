@@ -57,6 +57,19 @@ code .\id_rsa.pub  # 用自己的編譯器打開 `.ssh` 檔案並複製
 
 ![Image](https://i.imgur.com/2eqNJFE.png)
 
+* macOS
+  打開terminal，輸入
+
+```bash
+cd .ssh  #  擅用tab補全不完整指令
+```
+
+```bash
+code id_rsa.pub #  打開檔案
+```
+
+![Image](https://i.imgur.com/xCO2ir1.png)
+
 複製完 `id_rsa.pub` 內的 `ssh` 後，開啟自己的 GitHub 網頁，點擊頭貼的 `setting` ，頁面右側的 SSH and GPG keys 打開，按下 New SSH key，將複製的內容貼到下欄 key 的位置，Title 可自行填寫方便辨認的名稱，不清楚的話可以參考下圖喔!
 
 ![Image](https://i.imgur.com/EeVTRPH.png)
