@@ -19,7 +19,7 @@ title: 【Windows 筆記】 Windows10 安裝 Anaconda 環境
 
 ![Image](https://i.imgur.com/vTOrXd9.png)
 
-安裝完成後可以開啟命令提示字元 (CMD) 或是任一個你習慣的終端機 (Terminal)，並輸入 `python` 查看是否有成功安裝好 Python 以及 Anaconda。若有安裝成功則會跟下圖一樣的結果。進入這個畫面後使用者就可以直接在終端機撰寫 Python 程式語言並立即執行成果，也可以往下參考 [conda指令](#%e4%bd%bf%e7%94%a8-conda-%e6%8c%87%e4%bb%a4)，建立一個虛擬環境。
+安裝完成後可以開啟命令提示字元 (CMD) 或是任一個你習慣的終端機 (Terminal)，並輸入 `python` 查看是否有成功安裝好 Python 以及 Anaconda。若有安裝成功則會跟下圖一樣的結果。進入這個畫面後使用者就可以直接在終端機撰寫 Python 程式語言並立即執行成果，也可以往下參考 [conda 指令](#%e4%bd%bf%e7%94%a8-conda-%e6%8c%87%e4%bb%a4)，建立一個虛擬環境。
 
 ![Image](https://i.imgur.com/Y86qfaY.png)
 
@@ -73,7 +73,7 @@ conda create --name fordemo python=2.7
 
 ![Image](https://i.imgur.com/gtrNJoI.png)
 
-當然選'y'
+當然選 `y`
 
 建立完成後，在一次使用 `conda env list` 查看環境
 
