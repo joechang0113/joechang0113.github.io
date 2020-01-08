@@ -13,7 +13,7 @@ Gradle DSL method not found: 'google()'
 將 gradle 版本由 3.3 更新為 4.6，如下圖，到 **Gradle Script** 下的 **gradle-wrapper.properties** 將舊版本的 `distributionUrl` 替換為新版本連結，如下
 
 ``` java
-~~distributionUrl=https\://services.gradle.org/distributions/gradle-3.3-all.zip~~
+distributionUrl=https\://services.gradle.org/distributions/gradle-3.3-all.zip
 ```
 
 ``` java

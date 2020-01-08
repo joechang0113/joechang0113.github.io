@@ -1,5 +1,5 @@
 ---
-title: Powershell setting
+title: 【Windows 筆記】 Powershell 關閉下載進度條
 ---
 PowerShell 有個很常用的內建 Cmdlet 叫做 Invoke-WebRequest，他可以幫我們發出一個 HTTP 要求，從網路上下載一個檔案。我們在 Dockerfile 中經常會使用這個命令來動態下載檔案，還有很多情況都會用到。
 
