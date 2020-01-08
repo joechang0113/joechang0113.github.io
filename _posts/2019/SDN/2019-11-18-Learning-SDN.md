@@ -2,7 +2,7 @@
 title: 【SDN 筆記】 SDN、OpenFlow、Ryu 之間的關係
 tags: [SDN]
 ---
-以下說明一下在軟體網路定義(SDN)中，SDN、OpenFlow、Ryu 扮演的腳色以及他們之間是如何運作，若有興趣繼續深入探討，非常推薦研讀一下 [官方說明文件]([https://link](https://osrg.github.io/ryu-book/zh_tw/html/switching_hub.html#ryu))
+這篇介紹一下在軟體網路定義(SDN)中，SDN、OpenFlow 和 Ryu 所擔任的角色以及三者之間是如何運作，若有興趣深入探討，非常推薦研讀一下 [官方說明文件]([https://link](https://osrg.github.io/ryu-book/zh_tw/html/switching_hub.html#ryu))
 
 ## RYU
 
@@ -29,9 +29,9 @@ SDN 並不等於 OpenFlow，它僅僅是 SDN 中控制器控制轉發面裝置�
 
     利用以上工具編寫合適的 Controller。例如：Ryu controller（利用 Ryu 編寫的 Controller）, 因為 Ryu 是完全用 python 語言編寫，如果喜歡 python ，就可以利用 Ryu。OpenDaylight controller（利用 OpenDaylight 寫出的 controller），因為 OpenDaylight 是完全用 Java 語言編寫，如果需要和 Java 打交道，就可以利用 OpenDaylight。
 
-## 小結]
+## 小結
 
-SDN 包含 OpenFlow，而 OpenFlow 又包含 Controller，而 Controller 又可以使用像是 RYU 等等的不同工具來實現！
+SDN 包含 OpenFlow，而 OpenFlow 又包含 Controller，透過 Controller 可以使用像是 RYU 等等的不同工具來實現！
 
 ## 交換器實作
 
