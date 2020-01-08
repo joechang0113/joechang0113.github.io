@@ -15,9 +15,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.subtitle }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: JoeNotes
-description: Joe’s Blog
-subtitle: Every noble work is at first impossible
+title: 9notes
+description: JoeNotes
+subtitle: 9notes | Every noble work is at first impossible
 baseurl:
 timezone: Asia/Taipei
 sidebar_repository_limit: 5
