@@ -30,7 +30,7 @@ tags: [Windows]
 
 ![Imgur](https://i.imgur.com/BvQqV7M.png)
 
-輸入指令` ` ` activate tensorflow ` ` `激活 tensorflow 環境。
+輸入指令`activate tensorflow`激活 tensorflow 環境。
 
 > 如下圖使用者名稱前方顯示 tensorflow 表示激活成功
 
