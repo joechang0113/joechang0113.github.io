@@ -1,5 +1,5 @@
 ---
-title: 【Ubuntu 筆記】 Ubuntu 下打造 Tensorflow 環境
+title: 【Ubuntu 筆記】 用 Anaconda 簡單建立 Tensorflow 環境
 tags: [Ubuntu]
 ---
 工欲善其事，必先利其器，機器要學習，定需好環境。本文介紹如何使用 Anaconda 建立 Tensorflow 環境

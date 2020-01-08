@@ -98,3 +98,5 @@ python
 可以看到 python 環境不是當初 `base` 的 python3.7，而是我們建立 `fordemo` 的 `python2.7` ，如下
 
 ![Image](https://i.imgur.com/gVC45qG.png)
+
+最後，如果有興趣建立 Tensorflow 環境的朋友可以參考 [用 Anaconda 簡單建立 Tensorflow 環境](https://joechang0113.github.io/2019/11/01/Windows-build-tensorflow.html)
