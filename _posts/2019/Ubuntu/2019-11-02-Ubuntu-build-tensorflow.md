@@ -6,9 +6,9 @@ tags: [Ubuntu]
 
 ## 硬體環境
 
-OS: Ubuntu16.04
-CPU: I7 8700k
-GPU: 1080ti
+* OS: Ubuntu16.04
+* CPU: I7 8700k
+* GPU: 1080ti
 
 ## 下載並安裝 Anaconda
 
