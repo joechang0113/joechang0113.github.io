@@ -1,10 +1,10 @@
 ---
-title: Sometimes you gotta run before you can walk
+title: About
 permalink: /about/
 ---
 歡迎來到 9notes. 這裡是我學習歷程的紀錄，希望我的分享能有所幫助
 
-### About me
+### 9notes-JoeNotes
 
 我是 Joe，歡迎來到我的 Blog!
 
