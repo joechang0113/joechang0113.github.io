@@ -35,9 +35,9 @@
 
 ---
 
-# JoeNotes | Joe's Blog
+# 9notes | JoeNotes
 
-[JoeNotes](https://joechang0113.github.io/) 中會記錄一些在學習中碰到的問題以及解決方式也會有一些個人喜歡使用的軟體插件，歡迎參考以及相互學習
+[9notes](https://joechang0113.github.io/) 中會記錄一些在學習中碰到的問題以及解決方式也會有一些個人喜歡使用的軟體插件，歡迎參考以及相互學習
 
 ## Home
 
