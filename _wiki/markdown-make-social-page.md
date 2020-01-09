@@ -5,7 +5,7 @@ title: MarkDown-Socialpage
 
 這樣的社群連結可以使用在 GitHub 上的 [README.md](https://github.com/joechang0113/joechang0113.github.io) 或是 blog 上的相關 social media 頁面，像是這樣
 
-![Image](https://i.imgur.com/eo5J4vP.png)
+![Image](https://i.imgur.com/2MQPrZp.png)
 
 ## 在 markdown 使用社群連結
 
@@ -79,7 +79,7 @@ title: MarkDown-Socialpage
 
 替換後再試試看點擊這些 icon 就能成功連結到自己的 social media 囉！
 
-> 注意事項，這個方法用在某些 `.md` 檔案會出現只有跳轉到圖片網址的問題，實測 [README.md](https://github.com/joechang0113/socialpage) 可以完美運行，如果有朋友知道為什麼或是怎麼解決的也請多指教了！
+> 注意事項，這個方法用在某些 `.md` 檔案會出現只有跳轉到圖片網址的問題，實測 [README.md](https://github.com/joechang0113/socialpage) 可以呈現，如果有朋友知道為什麼或是怎麼解決的也請多指教了！
 <!-- icons with padding -->
 
 [1.1]: https://i.imgur.com/GmxhYO0.png (instagram icon with padding)
