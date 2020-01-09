@@ -5,7 +5,7 @@ tags:
     - Git
 
 ---
-專案開發過程中，檔案越來越大在所難免，GitHub 限制單一檔案 100 MB 的限制，這時候就需要交由 **LFS** 這個功能，來解決類似以下的錯誤訊息。
+使用 Git LFS 上傳大型檔案是在專案開發過程中解決 GitHub 限制單一檔案 100 MB 限制的作法，當你碰到下面訊息時，就表示超出限制，需要 **Git LFS** 幫忙。
 
 ``` bash
 remote: warning: Large files detected.
