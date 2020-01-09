@@ -3,7 +3,7 @@ title: 【VSCode 筆記】 GitLens 執行 git pull 報錯
 tags:
 
     - VSCode
-    - GitHub
+    - Git
 
 ---
 從 A 電腦 push 新資料到遠端儲存庫後，在作業到一半的 B 電腦，在 VSCode 利用 GitLens 從遠端庫 pull 時，發生 `在 pull 前，請先清理工作樹` ，這個情況是因為 git 倉庫的 code 和 本地的 code 產生衝突，所以發生錯誤。

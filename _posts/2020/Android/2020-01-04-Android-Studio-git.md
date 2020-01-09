@@ -1,12 +1,12 @@
 ---
-title: 【Android 筆記】 將專案託管於 GitHub
+title: 【Android 筆記】 git push 專案到 GitHub
 tags:
 
     - Android
-    - GitHub
+    - Git
 
 ---
-本篇紀錄一下，如何在 Android Studio 中使用 git 相關指令將程式碼上傳 GitHub 託管
+Android Studio 在 Git/GitHub 使用上其實很方便， 往下看 Android Studio 中如何使用 git 相關指令將程式碼上傳 GitHub 託管
 
 ## GitHub 遠程庫創建
 
@@ -93,3 +93,35 @@ git push -u origin master
 ![img](https://i.imgur.com/zHKca4O.png)
 
 接著回到我們的 android repo 如下畫面可以看到我們的首頁能呈現我們剛剛新增的 `README.md` 內容
+
+## clone 專案
+
+首先，我們打開 Android Studio 視窗，右下角有一個 `Configure` 的選單，打開並點擊 `Settings` ，Android Studio 已經有專案進行的朋友直接跳到 [專案內 clone 新 project](#%e5%b0%88%e6%a1%88%e5%85%a7-clone-new-project)
+
+![Image](https://i.imgur.com/ShMoADm.png)
+
+然後到 `Version Control` 打開 GitHub，沒有登入過的朋友會是一個 `add` 的 link，請先登入
+
+![Image](https://i.imgur.com/erX2uzp.png)
+
+接著回到起始頁面，點擊 `check out project from Version Control` ，選擇 `Git` 跳出如下
+
+![Image](https://i.imgur.com/jdxTmjI.png)
+
+在跳出的視窗中，貼上你要 clone 的 GitHub 地址
+
+![Image](https://i.imgur.com/6V4547H.png)
+
+接著等待開啟即可！
+
+## 專案內 clone new project
+
+Android Stuido 預設開啟會是上一次作業的 project 而不是起始視窗，所以如果 project 進行到一半才來到這裡的朋友請這樣做
+
+到 File - New - Project from Version Control - Git
+
+![Image](https://i.imgur.com/D8bNAC1.png)
+
+打開後貼上要 clone 的 GitHub 地址
+
+![Image](https://i.imgur.com/gOy3RaB.png)
