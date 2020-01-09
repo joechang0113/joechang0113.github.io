@@ -17,7 +17,7 @@
 # in the templates via {{ site.myvariable }}.
 title: 9notes
 description: JoeNotes
-subtitle: 9notes | Every noble work is at first impossible
+subtitle: Every noble work is at first impossible
 baseurl:
 timezone: Asia/Taipei
 sidebar_repository_limit: 5
