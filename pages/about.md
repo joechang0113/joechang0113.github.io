@@ -29,7 +29,7 @@ permalink: /about/
 ### Contact
 
 * GitHub: [@joechang0113](https://github.com/joechang0113)
-* iT 邦：[@Joe](https://ithelp.ithome.com.tw/users/20122594)
+* iT 邦：[@Joe(9notes)](https://ithelp.ithome.com.tw/users/20122594/articles)
 * Medium: [@joechang0113](https://medium.com/@joechang0113)
 
 ---
