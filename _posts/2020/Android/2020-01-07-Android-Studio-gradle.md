@@ -43,8 +43,7 @@ Configuration 'compile' is obsolete and has been replaced with 'implementation' 
 
 ![Sync Now](https://i.imgur.com/l2haatk.png)
 
-查詢一下，發現 [官方說明文件](https://developer.android.com/studio/build/dependencies?utm_source=android-studio#dependency_configurations)，有提到
-將** build.gradle **相關文件中的 `compile` 修改為 `implementation` 的需求，文件中我們要注意的內容如下方截圖
+查詢一下，發現 [官方說明文件](https://developer.android.com/studio/build/dependencies?utm_source=android-studio#dependency_configurations)，有提到將 **build.gradle** 相關文件中的 `compile` 修改為 `implementation` 的需求，文件中我們要注意的內容如下方截圖
 
 ![compile instead of api](https://i.imgur.com/G3icdGn.png)
 
