@@ -2,9 +2,9 @@
 title: About
 permalink: /about/
 ---
-歡迎來到 9notes. 這裡是我學習歷程的紀錄，希望我的分享能有所幫助
+歡迎來到 9notes. 這裡紀錄我的學習歷程，找到這裡的朋友，希望我的分享能對您有所幫助
 
-### 9notes-JoeNotes
+### 介紹
 
 我是 Joe，歡迎來到我的 Blog!
 
