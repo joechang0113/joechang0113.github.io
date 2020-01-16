@@ -72,7 +72,14 @@ conda create -n tensorflow-gpu python=3.6
 ```
 
 > 名稱和 python 版本可以自訂，不確定就按照此版本
-> >**怕造成誤會所以提個醒，雖然最初安裝的 anaconda 預設為 python3.7 但是透過 conda create 可以在系統建立一個 python3.6 的虛擬環境與之隔離互不影響**
+
+移除不需要的python虛擬環境, 記得移除時當前環境不能是該環境
+
+``` bash
+conda env remove -n tensorflow-gpu
+```
+
+> **怕造成誤會所以提個醒，雖然最初安裝的 anaconda 預設為 python3.7 但是透過 conda create 可以在系統建立一個 python3.6 的虛擬環境與之隔離互不影響**
 
 啟用上述所建立的 tensorflow-gpu 環境，出現該字樣即成功
 
