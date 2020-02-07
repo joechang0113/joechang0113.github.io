@@ -1,3 +1,10 @@
+---
+title: 【NCN 筆記】 CNN 實作
+tags:
+
+    - NN
+---
+
 ### 前置作業
 
 使用tensorflow搭建keras
@@ -17,7 +24,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 ```
 
-將手寫辨識的model引入，也就是 `MNIST` 
+將手寫辨識的model引入，也就是 `MNIST`
 
 ``` python
 from keras.datasets import mnist # Using TensorFlow backend.
@@ -322,7 +329,7 @@ model.summary()
 
 ### 參數計算
 
-每一筆input的通道都會透過filter做特徵提取(feture ectraction)，其中filter大小代表每個filter中擁有的神經元數量，且每個filter會有一個偏差值(bias)，每個filter中的神經元所用參數量表示為 `(input資料的通道數量 * (filter大小) + bias) * filter數量` 
+每一筆input的通道都會透過filter做特徵提取(feture ectraction)，其中filter大小代表每個filter中擁有的神經元數量，且每個filter會有一個偏差值(bias)，每個filter中的神經元所用參數量表示為 `(input資料的通道數量 * (filter大小) + bias) * filter數量`
 
 接著，每個filter產出的Feture Map經過filter過濾後，通道數會因filter而改變，也就是說conv_1產出的Feture Map的通道數量會因為conv_1中的32個filter增加為32個channel，使得 conv_2要input的資料變成32個通道，所以conv_2的 `input資料的通道數量` 等於32
 
