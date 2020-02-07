@@ -11,3 +11,4 @@ title: Multi-View Vehicle Re-Identiﬁcation using Temporal Attention Model and 
 如果你是採用softmax loss加上本文提出的center loss的損失，那麼最後各個類別的特徵分佈大概如下圖Fig3。和Fig2相比，類間距離變大了，類內距離減少了（主要變化在於類內距離：intra-class），這就是直觀的結果。
 
 ![Image](https://i.imgur.com/vPGF5Ow.png)
+
