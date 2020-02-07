@@ -1,9 +1,11 @@
 ---
-title: 【NCN 筆記】 CNN 實作
+title: 【CNN 筆記】 CNN 實作
 tags:
 
     - NN
 ---
+
+CNN實作手寫辨識
 
 ### 前置作業
 
