@@ -1,5 +1,5 @@
 ---
-title: 【RetinaNet 復現筆記】 Keras implementation of RetinaNet
+title: 【NN 筆記】 Keras implementation of RetinaNet
 tags:
 
     -NN

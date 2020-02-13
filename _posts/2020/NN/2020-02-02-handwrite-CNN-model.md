@@ -1,5 +1,5 @@
 ---
-title: 【CNN 筆記】 CNN 實作
+title: 【NN 筆記】 CNN 實作-手寫辨識
 tags:
 
     - NN
