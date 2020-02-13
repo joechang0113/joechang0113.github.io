@@ -9,10 +9,10 @@ tags:
 
 ### 環境
 
-Win10 pro
-GPU: 1060 6G
-TF-GPU: 1.10.0
-keras: 2.0.5
+* OS: Win10 pro
+* GPU: 1060 6G
+* TF-GPU: 1.10.0
+* keras: 2.0.5
 
 ### install
 
