@@ -2,7 +2,7 @@
 title: 【NN 筆記】 Keras implementation of RetinaNet
 tags:
 
-    -NN
+    - NN
 
 ---
 以下實作基於 GitHub 作者 fizyr 的 keras-retinanet 實現過程，詳細說明可以參考 [原文](https://github.com/fizyr/keras-retinanet)，以下紀錄實作過程中碰到的問題和解決方式，以及使用的環境。
