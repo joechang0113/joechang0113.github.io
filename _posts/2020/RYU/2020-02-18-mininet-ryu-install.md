@@ -6,7 +6,7 @@ tags:
 
 ---
 
- 根據 mininet 官方網站的說法，mininet 是一個執行在 Linux 平台中的網路拓墣模擬器，可以同時產生多個虛擬主機 / 交換機 / 控制器，並將其串接起來，由於其交換機支持 OpenFlow 的協定，更有助於軟體定義網路（SDN, Software Defined Networking）的模擬環境開發，建立了 mininet 環境可以利用 ryu 框架來實現 SDN，根據 ryu 官方網站的說法，ryu 提供了軟體定義網路 (software defined networking) 一個很好的開發框架，其支援許多的 API 和協定，如此一來不僅是在網路管理或應用開發層面，都會方便許多。下面從零開始，搭建相關環境。
+ 根據 mininet 官方網站的說法，mininet 是一個執行在 Linux 平台中的網路拓墣模擬器，可以同時產生多個虛擬主機 / 交換機 / 控制器，並將其串接起來，由於其交換機支持 OpenFlow 的協定，更有助於軟體定義網路（SDN, Software Defined Networking）的模擬環境開發，建立了 mininet 環境可以利用 ryu 框架來實現 SDN，根據 ryu 官方網站的說法，ryu 提供了軟體定義網路 (software defined networking) 一個很好的開發框架，其支援許多的 API 和協定，如此一來不僅是在網路管理或應用開發層面，都會方便許多，下面從零開始，搭建相關環境。
 
 ## VirtualBox & Ubuntu
 
