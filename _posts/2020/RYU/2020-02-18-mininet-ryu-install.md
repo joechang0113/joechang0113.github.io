@@ -25,7 +25,7 @@ reboot
 安裝 git 工具
 
 ``` bash
-apt-get install git
+sudo apt-get install git
 ```
 
 利用 `git clone` 下載 `mininet` 安裝檔
