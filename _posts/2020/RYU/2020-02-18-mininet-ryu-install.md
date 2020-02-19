@@ -82,6 +82,7 @@ pip install ryu
 git clone git://github.com/osrg/ryu.git
 cd ryu/
 sudo python ./setup.py install
+sudo pip install -r tools/pip-requires
 ```
 
 執行完會如下圖，出現兩個 `installing`
