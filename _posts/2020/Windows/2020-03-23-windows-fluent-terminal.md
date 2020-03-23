@@ -1,5 +1,10 @@
 ---
-title: Windows-Fluent Terminal
+title: 【Windows 筆記】 Fluent Terminal
+tags:
+
+    - Windows
+    - Terminal
+
 ---
 Windows 用的 shell 很多種，有 cmd、Cmder、Git bash、PowerShell 等等，這篇介紹 [FluentTerminal](https://github.com/felixse/FluentTerminal)，是一個可以高度客製化的 shell，最終效果如下
 

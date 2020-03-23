@@ -1,5 +1,5 @@
 ---
-title: 【Windows 筆記】 Powershell 關閉下載進度條
+title: 【Windows 筆記】Powershell 關閉下載進度條
 tags:
 
     - Windows

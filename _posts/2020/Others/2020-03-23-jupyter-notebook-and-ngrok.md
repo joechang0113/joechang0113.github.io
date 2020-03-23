@@ -1,6 +1,12 @@
 ---
-title: jupyter notebook 外部網路存取
+title: jupyter notebook & ngrok 外部網路存取
+tags:
+
+    - jupyter notebook
+    - ngrok
 ---
+
+利用 ngrok 解決 jupyter notebook 無法透過外部網路存取的問題
 
 ## jupyter notebook 遠端連線
 

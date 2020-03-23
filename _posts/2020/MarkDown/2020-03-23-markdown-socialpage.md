@@ -1,5 +1,7 @@
 ---
-title: MarkDown-Socialpage
+title: 【Markdown 筆記】MarkDown-Socialpage
+tags:
+    - Markdown
 ---
 許多技術文章都是以 markdown 來撰寫，其中 GitHub 上的 `README.md` 也不例外，大家對於 markdown 的語法熟悉度相較於其他或許更為容易上手，本 blog 的 About 頁面也是使用 markdown 編寫，大篇幅的文字敘述總是較為無聊，希望可以在聯絡方式上做一些改變
 
