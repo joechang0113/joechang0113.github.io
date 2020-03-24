@@ -1,7 +1,7 @@
 ---
 title: 【螢幕截圖】PicPick
 ---
-先前介紹了 [screenrec](https://joechang0113.github.io/wiki/screenrec-tool.html)，它功能簡單但能滿足一般使用，但是有些人對於截圖的後製更為講究，所以這次介紹 [PicPick](https://joechang0113.github.io/wiki/picpick-tool.html)，它的功能十分強大，操作大家也一定熟悉，因為跟 word 沒有兩樣，但是相較於 `Screen Rec` 的跨平台優勢，目前 `PicPick` 只支援 windows 喔
+先前介紹了 [screenrec](https://joechang0113.github.io/wiki/screenrec-tool.html)，它功能簡單但能滿足一般使用，但是有些人對於截圖的後製更為講究，所以這次介紹 PicPick，它的功能十分強大，操作大家也一定熟悉，因為跟 word 沒有兩樣，但是相較於 `Screen Rec` 的跨平台優勢，目前 `PicPick` 只支援 windows 喔
 
 ## 軟體安裝
 
@@ -33,6 +33,5 @@ title: 【螢幕截圖】PicPick
 
 ![Image](https://i.imgur.com/p6Y4131.png)
 
-以上介紹完 PicPick 這款工具，大家可以在 [Screen Rec](https://joechang0113.github.io/wiki/screenrec-tool.html) 和 [PicPick](https://joechang0113.github.io/wiki/picpick-tool.html) 選一個自己用的順手的
+以上介紹完 PicPick 這款工具，大家可以在 [Screen Rec](https://joechang0113.github.io/wiki/screenrec-tool.html) 和 [PicPick](https://joechang0113.github.io/wiki/picpick-tool.html) 選一個自己用的順手的！
 
-![Image](https://i.imgur.com/FNhlJFx.png)
