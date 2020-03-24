@@ -33,6 +33,6 @@ title: 【螢幕截圖】PicPick
 
 ![Image](https://i.imgur.com/p6Y4131.png)
 
-以上介紹完 PicPick 這款工具，大家可以在 [Screen Rec](https://joechang0113.github.io/wiki/screenrec-tool.html) 和 [PicPick])(https://joechang0113.github.io/wiki/picpick-tool.html) 選一個自己用的順手的
+以上介紹完 PicPick 這款工具，大家可以在 [Screen Rec](https://joechang0113.github.io/wiki/screenrec-tool.html) 和 [PicPick](https://joechang0113.github.io/wiki/picpick-tool.html) 選一個自己用的順手的
 
 ![Image](https://i.imgur.com/FNhlJFx.png)
