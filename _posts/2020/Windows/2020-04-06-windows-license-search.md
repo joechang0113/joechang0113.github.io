@@ -8,11 +8,12 @@ windows和office都需要有授權碼才能夠使用，往往輸入一次後忘�
 ### 使用期限
 
 windows+R 然後輸入 slmgr.vbs -xpr
+
 ![](https://i.imgur.com/BLxtYP5.png)
->出現永久啟用，表示有購買序號
+>永久啟用
 
 ![](https://i.imgur.com/v1JFVR1.png)
->出現大量起用將到期，表示經過KMS
+>大量起用將到期
 
 ### 序號查詢
 
