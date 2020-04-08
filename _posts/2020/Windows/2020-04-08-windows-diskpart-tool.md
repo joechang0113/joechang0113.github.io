@@ -1,5 +1,5 @@
 ---
-title:【Windows 筆記】使用命令提示字元刪除合併磁碟
+title: 【Windows 筆記】使用命令提示字元刪除合併磁碟
 tags:
 - Windows
 ---
