@@ -1,5 +1,7 @@
 ---
 title: 【Windows 筆記】 Windows 和 Office 使用期限及認證序號查詢
+tags:
+- Windows
 ---
 windows和office都需要有授權碼才能夠使用，往往輸入一次後忘記自己的序號，以下分享如何找出認證序號
 
