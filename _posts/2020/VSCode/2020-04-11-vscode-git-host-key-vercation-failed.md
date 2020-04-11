@@ -28,3 +28,5 @@ Are you sure you want to continue connecting (yes/no)?
 ```
 
 填入 `yes` ，經過認證後，VSCode 的工具就不會再有以上問題了！
+
+![Image](https://i.imgur.com/2us1c5V.png)
