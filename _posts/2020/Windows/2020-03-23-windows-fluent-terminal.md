@@ -30,7 +30,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 choco -v
 ```
 
-![Image](https://i.imgur.com/DaUN1TA.png)
+![Image](https://i.imgur.com/1Ja9yqG.png)
 
 利用 Chocolatey 安裝 FluentTerminal
 
@@ -47,6 +47,10 @@ choco install fluent-terminal
 ``` bash
 set-ExecutionPolicy RemoteSigned
 ```
+
+如果沒問題，出現成功字樣，會如下圖
+
+![Image](https://i.imgur.com/aqo6XDn.png)
 
 ### 安裝 oh-my-posh
 
@@ -83,7 +87,7 @@ $DefaultUser = 'username' # your pc username，用來隱藏本機名
 
 不知道 username 的朋友請按 `Win+R` ，輸入 `netplwiz` 即可查看自己的 username
 
-![Image](https://i.imgur.com/AVaHPuv.png)
+![Image](https://i.imgur.com/fMdXsz7.png)
 
 貼上後如下圖
 
@@ -117,9 +121,11 @@ $DefaultUser = 'username' # your pc username，用來隱藏本機名
 
 ### FluentTerminal 優化
 
-將剛剛下載的 Consolas NF 字形和 Argonaut 主題做配置
+關閉 `PowerShell`，打開 `Fluent Terminal` ，將剛剛下載的 Consolas NF 字形和 Argonaut 主題做配置，在最近新增的應用程式就可以看到 `FluentTerminal`
 
-打開 FluentTerminal 點選左上角的選單，打開 Settings，選 Terminal，第一個選項 Font family 找到我們的 Consolas NF
+![Image](https://i.imgur.com/SPvT4rC.png)
+
+打開點選左上角的選單，打開 Settings，選 Terminal，第一個選項 Font family 找到我們的 Consolas NF
 
 ![Image](https://i.imgur.com/7kwIMW6.png)
 
