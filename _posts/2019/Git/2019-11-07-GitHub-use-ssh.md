@@ -55,10 +55,10 @@ cd .\.ssh\  # 路徑切換到 ssh 目錄下
 ```
 
 ``` bash
-code .\id_rsa.pub  # 用自己的編譯器打開 `.ssh` 檔案並複製
+cat .\id_rsa.pub  # 用自己的編譯器打開 `.ssh` 檔案並複製
 ```
 
-![Image](https://i.imgur.com/2eqNJFE.png)
+![Image](https://i.imgur.com/3P7hlTZ.png)
 
 * macOS
 
@@ -69,7 +69,7 @@ cd .ssh  #  擅用 tab 補全不完整指令
 ```
 
 ``` bash
-code id_rsa.pub #  打開檔案
+cat id_rsa.pub #  打開檔案
 ```
 
 ![Image](https://i.imgur.com/xCO2ir1.png)
