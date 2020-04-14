@@ -3,7 +3,6 @@ title: 【Windows 筆記】Windows Terminal 使用與美化
 tags:
 
     - Windows
-
 ---
 之前有介紹過好用的 [Fluent Terminal](https://joechang0113.github.io/2020/03/23/windows-fluent-terminal.html)，這次介紹微軟自己的 `Windows Terminal` ，多了很多好玩的功能，透過 `.json` 的設定，可以自由的客製化，個人覺得可玩度比 `Fluent Terminal` 高！
 
@@ -11,7 +10,7 @@ tags:
 
 雖然現在還只是 `Preview` 版本，不過相信隨著更新會越來越好的，來看看官方的宣傳片
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8gw0rXPMMPE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/8gw0rXPMMPE/0.jpg)](http://www.youtube.com/watch?v=8gw0rXPMMPE)
 
 安裝的環境有些限制，目前僅有　W10 1903 之後的版本可以相容各項功能，不確定自己版本，可以按下 `Win+R` 打開執行命令，輸入 `winver` 就有自己的 windows 版本號了，準備就緒後，我們就開始！
 
