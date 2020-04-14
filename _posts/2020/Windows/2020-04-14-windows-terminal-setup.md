@@ -96,9 +96,9 @@ Set-ExecutionPolicy RemoteSigned
 
 ![](https://i.imgur.com/jJHYXA7.png)
 
-接著解壓縮並打開字形包，選擇自己要的字形（我用 `Source Code Pro ExtraLight for Powerline` 他放在 `SourceCodePro` 資料夾），將要得 `.otf` 檔案拖移到字形資料夾進行安裝
+接著解壓縮並打開字形包，選擇自己要的字形（我用 `Source Code Pro for Powerline` 他放在 `SourceCodePro` 資料夾），將要得 `.otf` 檔案拖移到字形資料夾進行安裝
 
-![](https://i.imgur.com/Qags2JA.png)
+![Image](https://i.imgur.com/mGeKeU8.png)
 
 最後，待一段時間，重啟 `windows terminal` 就完成了。
 
