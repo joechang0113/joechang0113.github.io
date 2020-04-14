@@ -3,6 +3,7 @@ title: 【Windows 筆記】Windows Terminal 使用與美化
 tags:
 
     - Windows
+
 ---
 之前有介紹過好用的 [Fluent Terminal](https://joechang0113.github.io/2020/03/23/windows-fluent-terminal.html)，這次介紹微軟自己的 `Windows Terminal` ，多了很多好玩的功能，透過 `.json` 的設定，可以自由的客製化，個人覺得可玩度比 `Fluent Terminal` 高！
 
@@ -12,11 +13,12 @@ tags:
 
 {% include youtube.html id="8gw0rXPMMPE" %}
 
-安裝的環境有些限制，目前僅有　W10 1903 之後的版本可以相容各項功能，不確定自己版本，可以按下 `Win+R` 打開執行命令，輸入 `winver` 就有自己的 windows 版本號了，準備就緒後，我們就開始！
+安裝的環境有些限制，目前僅有 `W10 version 1903` 之後的版本可以相容各項功能，不確定自己版本，可以按下 `Win+R` 打開執行命令，輸入 `winver` 就有自己的 windows 版本號了，準備就緒後，我們就開始！
 
 ## 介紹
 
 我們原本的 powershell 會長這樣
+
 ![Image](https://i.imgur.com/1IIAxZP.png)
 
 我們要改造成這樣
@@ -27,7 +29,7 @@ tags:
 
 打開 `PowerShell` 依序輸入兩行指令
 
-```bash
+``` bash
 Install-Module posh-git -Scope CurrentUser
 
 Install-Module oh-my-posh -Scope CurrentUser
@@ -37,7 +39,7 @@ Install-Module oh-my-posh -Scope CurrentUser
 
 接著設定自動套用，在 `PowerShell` 上輸入 `$PROFILE` ，依序輸入下列兩行指令
 
-```bash
+``` bash
 if (!(Test-Path -Path $PROFILE )) { New-Item -Type File -Path $PROFILE -Force }
 
 code $PROFILE
@@ -55,7 +57,7 @@ C:\Users\[hostname]\Documents\WindowsPowerShell\
 
 打開後，貼上下面程式
 
-```ps1
+``` ps1
 Import-Module posh-git
 Import-Module oh-my-posh
 Set-Theme Paradox
@@ -69,7 +71,7 @@ $ProgressPreference = 'SilentlyContinue' # 關閉 powershell 下載進度條
 
 請執行此命令
 
-```bash
+``` bash
 Set-ExecutionPolicy RemoteSigned
 ```
 
@@ -109,7 +111,7 @@ Set-ExecutionPolicy RemoteSigned
 
 輸入指令
 
-```bash
+``` bash
 PowerShell -Command "Set-ExecutionPolicy RemoteSigned -scope Process; iwr -useb https://raw.githubusercontent.com/gerardog/gsudo/master/installgsudo.ps1 | iex"
 ```
 
@@ -119,15 +121,15 @@ PowerShell -Command "Set-ExecutionPolicy RemoteSigned -scope Process; iwr -useb 
 
 接著，打開 windows terminal 的 setting，在 `list` 陣列中，貼上如下程式碼
 
-```js
+``` js
 {
-      "guid": "{41dd7a51-f0e1-4420-a2ec-1a7130b7e950}",
-      "name": "Windows PowerShell Elevated",
-      "commandline": "gsudo.exe powershell.exe",
-      "hidden": false,
-      "colorScheme": "Solarized Dark",
-      "icon" : "https://i.imgur.com/Giuj3FT.png"
-  },
+  "guid": "{41dd7a51-f0e1-4420-a2ec-1a7130b7e950}",
+  "name": "Windows PowerShell Elevated",
+  "commandline": "gsudo.exe powershell.exe",
+  "hidden": false,
+  "colorScheme": "Solarized Dark",
+  "icon": "https://i.imgur.com/Giuj3FT.png"
+},
 ```
 
 ![Image](https://i.imgur.com/RWt3pgn.png)
@@ -140,7 +142,7 @@ PowerShell -Command "Set-ExecutionPolicy RemoteSigned -scope Process; iwr -useb 
 
 首先，開啟 `cmd` 輸入以下兩個指令 ( `gitbash` 無效）
 
-```bash
+``` bash
 echo %USERPROFILE%
 
 echo %LOCALAPPDATA%
@@ -156,7 +158,7 @@ echo %LOCALAPPDATA%
 
 接著，需要建立一個 `Terminal` 資料夾，輸入
 
-```bash
+``` bash
 mkdir "%USERPROFILE%\AppData\Local\Terminal"
 ```
 
@@ -185,7 +187,7 @@ Windows Registry Editor Version 5.00
 
 直接執行該檔案，完成後，打開 `windows termianl` 的 setting，加入以下命令
 
-```js
+``` js
 "startingDirectory": null
 ```
 
