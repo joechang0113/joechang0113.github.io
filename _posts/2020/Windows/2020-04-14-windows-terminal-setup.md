@@ -10,7 +10,7 @@ tags:
 
 雖然現在還只是 `Preview` 版本，不過相信隨著更新會越來越好的，來看看官方的宣傳片
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/8gw0rXPMMPE/0.jpg)](http://www.youtube.com/watch?v=8gw0rXPMMPE)
+{% include youtube.html id="8gw0rXPMMPE" %}
 
 安裝的環境有些限制，目前僅有　W10 1903 之後的版本可以相容各項功能，不確定自己版本，可以按下 `Win+R` 打開執行命令，輸入 `winver` 就有自己的 windows 版本號了，準備就緒後，我們就開始！
 
