@@ -1,5 +1,5 @@
 ---
-title: 【Windows 筆記】W10 無法讀取前面板的音源
+title: 【Windows 筆記】W10 主機前面板的音源失效
 tags:
 
     - Windows
