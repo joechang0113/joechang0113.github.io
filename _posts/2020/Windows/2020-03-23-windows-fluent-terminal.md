@@ -164,3 +164,16 @@ $DefaultUser = 'username' # your pc username，用來隱藏本機名
 接著再 VSCode 案 ctrl+p 打開命令列輸入 `>select Default shell` ，選擇 powershell
 
 ![Image](https://i.imgur.com/l5mQVFs.png)
+
+## 後記
+
+因為後來改用微軟自身的 `Windows Terminal`，所以有刪除的需求，如果只是刪除應用程式，會殘留一些暫存，導致右鍵選單遺留，輸入下面三行可解決，輸出的訊息不用在意
+
+```
+reg delete "HKCU\Software\Classes\Directory\shell\Open Fluent Terminal here" /f
+
+reg delete "HKCU\Software\Classes\Directory\Background\shell\Open Fluent Terminal here" /f
+
+reg delete "HKCU\Software\Classes\LibraryFolder\Background\shell\Open Fluent Terminal here" /f
+
+```
