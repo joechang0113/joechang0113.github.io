@@ -51,13 +51,13 @@ code $PROFILE
 
 也可以直接到以下路徑新增檔案
 
-```
+```text
 C:\Users\[hostname]\Documents\WindowsPowerShell\
 ```
 
 打開後，貼上下面程式(除了前3個，其他可選用)
 
-``` ps1
+``` powershell
 Import-Module posh-git
 Import-Module oh-my-posh
 Set-Theme Paradox
@@ -173,7 +173,7 @@ mkdir "%USERPROFILE%\AppData\Local\Terminal"
 
 在桌面新增一個 `txt` ，貼上以下內容，另存為名為 `addwt` 的 `reg` 檔
 
-```
+```text
 Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\wt]
