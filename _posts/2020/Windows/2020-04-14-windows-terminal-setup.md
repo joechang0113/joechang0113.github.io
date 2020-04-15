@@ -189,7 +189,7 @@ Windows Registry Editor Version 5.00
 直接執行該檔案，完成後，打開 `windows termianl` 的 setting，加入以下命令
 
 ``` js
-"startingDirectory": null
+"startingDirectory": "./"
 ```
 
 ![Image](https://i.imgur.com/rswI2G9.png)
