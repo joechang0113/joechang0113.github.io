@@ -55,7 +55,7 @@ code $PROFILE
 C:\Users\[hostname]\Documents\WindowsPowerShell\
 ```
 
-打開後，貼上下面程式
+打開後，貼上下面程式(除了前3個，其他可選用)
 
 ``` ps1
 Import-Module posh-git
@@ -63,6 +63,7 @@ Import-Module oh-my-posh
 Set-Theme Paradox
 $DefaultUser = 'hostname' # your pc username，用來隱藏本機名
 $ProgressPreference = 'SilentlyContinue' # 關閉 powershell 下載進度條
+Set-PSReadlineKeyHandler -Key Tab -Function  MenuComplete # tab 展開路徑下檔案並選擇
 ```
 
 如果不斷出現如下圖錯誤
