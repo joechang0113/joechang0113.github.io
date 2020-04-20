@@ -1,5 +1,5 @@
 ---
-title: 【Windows 筆記】W10 主機前面板的音源失效
+title: 【Windows 筆記】Win 10 系統下主機前置面板無法偵測音源
 tags:
 
     - Windows
