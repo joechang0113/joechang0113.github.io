@@ -70,7 +70,7 @@ Set-PSReadlineKeyHandler -Key Tab -Function  MenuComplete # tab 展開路徑下�
 
 ![Image](https://i.imgur.com/lKNpZjn.png)
 
-請執行此命令
+用系統管理員執行 `cmd`，執行下方命令
 
 ``` bash
 Set-ExecutionPolicy RemoteSigned
@@ -171,7 +171,7 @@ mkdir "%USERPROFILE%\AppData\Local\Terminal"
 
 ![Image](https://i.imgur.com/1ub33TM.png)
 
-在桌面新增一個 `txt` ，貼上以下內容，另存為名為 `addwt` 的 `reg` 檔
+在桌面新增一個 `txt` ，貼上以下內容(`yourhostname` 記得改成自己的)，另存為名為 `addwt` 的 `reg` 檔
 
 ```text
 Windows Registry Editor Version 5.00
