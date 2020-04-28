@@ -1,5 +1,5 @@
 ---
-title: 【Windows 筆記】印表機多工緩衝問題 - 提示"需要注意"
+title: 【Windows 筆記】印表機多工緩衝問題
 tags:
 
     - Windows
