@@ -117,4 +117,4 @@ gazebo
 
 ### 測試完畢
 
-以上是針對 ROS 使用的測試步驟，到這邊告一段落，可以正常使用 ROS 以及下一步的 [LiDAR 環境建立](https://joechang0113.github.io//2019/12/23/ROS-LiDAR-build/)
+以上是針對 ROS 使用的測試步驟，到這邊告一段落，可以正常使用 ROS 以及下一步的 [LiDAR 環境建立](https://joechang0113.github.io/2019/12/23/ROS-LiDAR-build.html)
