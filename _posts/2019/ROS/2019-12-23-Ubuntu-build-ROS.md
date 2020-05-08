@@ -17,7 +17,7 @@ ROS 需要 python2.7 建立，使用 anaconda 會出現較多問題，會增加�
 * ROS Kinetic Kame
 * 使用 zsh(z shell)
 
-> 有興趣使用 zsh 可以參考 [這篇](https://joechang0113.github.io//2019/12/23/Ubuntu-use-oh-my-zsh/)
+> 有興趣使用 zsh 可以參考 [這篇](https://joechang0113.github.io/2020/03/23/ubuntu-install-oh-my-zsh.html)
 
 ### 安裝 ROS
 
