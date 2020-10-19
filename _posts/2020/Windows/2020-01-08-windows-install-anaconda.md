@@ -10,7 +10,7 @@ tags:
 
 ### 安裝 Anaconda
 
-進入 [Anaconda 官網](https://github.com/andy6804tw/machine-learning/blob/master/0-introduction) 後選取你的系統，並下載安裝檔。若本身有安裝 Python 的朋友建議先移除原先所安裝的 Python 因為安裝 Anaconda 時會自動另外幫你安裝 Python。因此為了避免衝突還是建議讀者先移除舊有版本。
+進入 [Anaconda 官網](https://www.anaconda.com/products/individual) 後選取你的系統，並下載安裝檔。若本身有安裝 Python 的朋友建議先移除原先所安裝的 Python 因為安裝 Anaconda 時會自動另外幫你安裝 Python。因此為了避免衝突還是建議讀者先移除舊有版本。
 
 ![Image](https://i.imgur.com/J3Yb1kv.png)
 
